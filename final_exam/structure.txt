@@ -1,0 +1,9 @@
+First Topic: Chapter 4, Section 4.4.1 The t Distribution; and Appendix B, Section B.4.2 The t Distribution.
+
+Second Topic: Chapter 4, Section 4.4.3 Example: Estimating Mean Weight Change for Anorexic Girls; Appendix B, Section B.4.3 Confidence Intervals for Means; Chapter 4, Section 4.5.3 Example: Comparing a Therapy to a Control Group; Section 4.5.4 Confidence Interval Comparing Two Proportions; Appendix B, Section B.4.4 Confidence Intervals Comparing Means and Comparing Proportions.
+
+Third Topic: Chapter 4, Section 4.7 The Bayesian Approach to Statistical Inference (See subsection 4.7.3); Section 4.8 Bayesian Inference for Means (see subsection 4.8.2); Appendix B, Section B.4.6 Bayesian Posterior Intervals for Proportions and Means.
+
+Fourth Topic: Chapter 6, Section 6.5 Categorical Explanatory Variables in Linear Models (see subsections 6.5.2 and 6.5.5); Appendix B, Section B.6.5 Categorical Explanatory Variables in Linear Models.
+
+Fifth Topic: Chapter 5, Section 5.4 Significance Tests Comparing Proportions (see subsection 5.4.4); Appendix B, Section B.5.2 Chi-Squared Tests Comparing Multiple Proportions in Contingency Tables.

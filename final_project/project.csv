@@ -1,0 +1,1001 @@
+﻿Gender,Age,Country,No_Household,Avg_Spend,Food,Snack,Frozen_Food,Vegetables,Seasoning,Ingredients,Question_2,Question_3,Question_4
+Male,29,Switzerland,2,40,No,Yes,No,Yes,Yes,No,Price,Once a week,Yes
+Male,42,Switzerland,5,70,Yes,No,Yes,No,No,Yes,The dietary information,Once a week,Yes
+Male,57,Austria,2,63,Yes,No,Yes,Yes,Yes,Yes,The dietary information,Once a week,No
+Male,32,Italy,3,23,No,No,No,No,Yes,Yes,Price,Twice a month,Yes
+Male,51,Austria,3,70,Yes,No,No,No,Yes,Yes,Quality of products,Once a week,Yes
+Female,22,Switzerland,3,24,No,Yes,Yes,Yes,Yes,Yes,Price,Once a week,Yes
+Female,39,Italy,3,59,Yes,Yes,Yes,Yes,No,Yes,Price,Once a week,Yes
+Female,60,Portugal,3,13,Yes,No,Yes,No,Yes,No,Price,Once a week,Yes
+Male,54,Portugal,2,68,Yes,No,Yes,No,No,Yes,The dietary information,Once a week,Yes
+Female,25,Italy,2,92,No,Yes,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,52,Spain,4,16,No,No,Yes,Yes,No,Yes,The dietary information,Once a week,Yes
+Female,24,Luxembourg,3,53,No,No,Yes,No,No,Yes,The dietary information,Once a week,Yes
+Female,31,France,3,76,Yes,Yes,No,No,Yes,No,Quality of products,Once a week,Yes
+Male,23,Belgium,3,73,Yes,No,No,No,Yes,Yes,Quality of products,Once a week,Yes
+Female,47,Portugal,3,40,Yes,Yes,Yes,Yes,Yes,Yes,Price,Twice a month,Yes
+Female,21,Italy,1,72,Yes,Yes,Yes,Yes,No,No,Quality of products,Twice a month,No
+Male,54,Switzerland,2,83,No,Yes,Yes,Yes,No,No,Price,Once a week,Yes
+Male,20,France,1,92,Yes,Yes,No,Yes,Yes,No,Quality of products,Everyday,Yes
+Male,21,Luxembourg,1,68,No,No,Yes,No,Yes,No,Price,Once a week,Yes
+Female,57,Luxembourg,2,58,No,Yes,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,33,Italy,2,27,No,No,No,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,43,Italy,2,29,No,Yes,No,No,Yes,No,Price,Once a week,Yes
+Male,50,Switzerland,4,52,No,Yes,No,Yes,Yes,Yes,Quality of products,Twice a month,Yes
+Male,43,Belgium,3,45,No,Yes,Yes,No,Yes,Yes,The dietary information,Once a week,Yes
+Female,55,Spain,5,26,No,Yes,Yes,Yes,Yes,No,Quality of products,Once a week,Yes
+Female,59,France,4,89,Yes,Yes,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Female,59,Portugal,3,47,Yes,No,Yes,No,Yes,Yes,Quality of products,Once a week,Yes
+Male,58,Luxembourg,1,36,Yes,No,Yes,No,Yes,Yes,Quality of products,Once a week,Yes
+Male,49,Luxembourg,4,65,Yes,No,No,No,Yes,Yes,Quality of products,Once a week,No
+Male,36,Luxembourg,4,25,No,No,No,Yes,No,Yes,Price,Twice a month,Yes
+Male,21,Portugal,4,36,Yes,Yes,No,Yes,Yes,No,Price,Twice a month,No
+Male,22,Spain,3,46,Yes,No,No,No,Yes,No,Quality of products,Everyday,No
+Female,58,Italy,2,100,Yes,Yes,No,No,No,Yes,Price,Everyday,No
+Male,26,Belgium,5,56,Yes,No,No,Yes,Yes,Yes,The dietary information,Everyday,Yes
+Male,51,Belgium,4,76,No,Yes,Yes,No,Yes,No,Price,Everyday,Yes
+Male,23,Italy,5,37,Yes,No,No,No,Yes,Yes,The dietary information,Once a week,No
+Female,45,Italy,5,42,No,No,No,Yes,No,No,The dietary information,Everyday,Yes
+Male,34,France,1,80,No,No,Yes,Yes,No,Yes,Price,Once a week,Yes
+Male,21,France,4,26,No,Yes,Yes,Yes,Yes,No,Price,Everyday,Yes
+Male,53,France,3,44,No,Yes,Yes,No,Yes,No,The dietary information,Once a week,Yes
+Male,41,Italy,2,63,No,No,No,Yes,Yes,Yes,Price,Twice a month,Yes
+Male,28,Switzerland,5,21,No,Yes,No,Yes,Yes,No,Quality of products,Twice a month,Yes
+Female,49,Belgium,2,68,No,No,No,No,Yes,Yes,Price,Once a week,Yes
+Female,33,Austria,2,62,Yes,Yes,No,Yes,Yes,No,Quality of products,Twice a month,Yes
+Female,26,France,5,38,Yes,Yes,Yes,No,Yes,Yes,The dietary information,Once a week,No
+Male,36,France,4,15,Yes,Yes,No,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Female,40,Spain,1,52,No,No,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,21,Switzerland,5,30,Yes,Yes,Yes,No,No,Yes,Price,Twice a month,No
+Female,44,Switzerland,3,64,Yes,No,No,Yes,No,No,Price,Once a week,Yes
+Male,37,Portugal,3,93,No,No,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,20,Belgium,3,85,No,No,Yes,Yes,No,No,Quality of products,Once a week,No
+Male,31,Portugal,1,45,No,No,No,Yes,Yes,No,The dietary information,Everyday,No
+Male,52,Spain,4,86,Yes,No,Yes,No,Yes,Yes,Quality of products,Once a week,No
+Male,42,Belgium,2,31,No,No,No,No,Yes,No,The dietary information,Twice a month,Yes
+Female,31,Belgium,3,74,No,Yes,No,No,Yes,No,Price,Once a week,Yes
+Female,43,Switzerland,5,99,Yes,No,Yes,Yes,Yes,No,Price,Once a week,No
+Male,45,Luxembourg,2,52,No,No,Yes,Yes,Yes,Yes,Price,Everyday,Yes
+Male,42,Switzerland,3,43,Yes,Yes,Yes,No,No,Yes,Price,Once a week,Yes
+Female,41,Switzerland,3,54,Yes,No,Yes,Yes,Yes,Yes,Price,Once a week,No
+Female,20,Belgium,5,78,Yes,No,Yes,No,Yes,Yes,Quality of products,Twice a month,Yes
+Female,53,Italy,4,89,No,No,No,Yes,No,Yes,Price,Twice a month,Yes
+Female,60,Italy,5,61,Yes,No,Yes,Yes,No,No,The dietary information,Once a week,Yes
+Female,33,Spain,4,74,Yes,Yes,No,Yes,Yes,Yes,Quality of products,Twice a month,Yes
+Female,56,Portugal,5,33,No,No,No,No,No,No,Price,Everyday,Yes
+Female,31,Belgium,2,59,No,Yes,Yes,Yes,Yes,Yes,The dietary information,Everyday,Yes
+Female,39,Luxembourg,1,15,Yes,Yes,No,No,Yes,No,Price,Twice a month,Yes
+Male,54,Spain,2,18,No,No,Yes,No,Yes,Yes,Quality of products,Everyday,Yes
+Male,53,Italy,3,96,No,No,Yes,Yes,Yes,No,Price,Once a week,Yes
+Male,42,Switzerland,3,15,Yes,Yes,No,No,Yes,Yes,The dietary information,Once a week,Yes
+Female,57,Spain,2,76,No,Yes,Yes,Yes,No,Yes,Quality of products,Once a week,No
+Male,41,Luxembourg,4,13,Yes,Yes,No,No,Yes,Yes,Quality of products,Twice a month,Yes
+Male,59,Austria,2,45,No,Yes,Yes,Yes,No,Yes,The dietary information,Twice a month,Yes
+Female,26,Belgium,3,62,Yes,Yes,Yes,No,Yes,Yes,The dietary information,Everyday,Yes
+Male,34,Italy,1,32,No,No,Yes,No,Yes,Yes,Quality of products,Once a week,Yes
+Male,53,Switzerland,5,60,No,No,Yes,Yes,No,Yes,Quality of products,Twice a month,No
+Male,53,Luxembourg,3,71,No,Yes,No,Yes,No,Yes,The dietary information,Twice a month,No
+Female,45,Luxembourg,3,58,Yes,Yes,Yes,No,Yes,Yes,Quality of products,Once a week,No
+Female,56,France,3,37,Yes,Yes,No,No,Yes,Yes,Price,Once a week,Yes
+Female,45,Luxembourg,4,84,Yes,No,No,No,No,Yes,The dietary information,Twice a month,No
+Male,53,Spain,4,20,No,No,No,No,No,Yes,The dietary information,Everyday,No
+Female,30,Spain,4,77,Yes,No,No,No,Yes,Yes,Quality of products,Everyday,Yes
+Female,38,Austria,3,82,Yes,No,Yes,No,Yes,Yes,The dietary information,Twice a month,Yes
+Female,22,Portugal,1,31,No,No,No,No,Yes,Yes,Price,Once a week,No
+Male,50,Spain,2,35,No,No,No,Yes,No,Yes,Price,Everyday,No
+Male,30,Luxembourg,4,34,No,Yes,Yes,Yes,Yes,Yes,Quality of products,Everyday,Yes
+Male,54,Austria,2,59,No,No,Yes,No,Yes,Yes,Price,Twice a month,Yes
+Male,22,Switzerland,1,100,No,No,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,59,France,1,69,No,No,Yes,Yes,No,Yes,Quality of products,Once a week,Yes
+Female,35,Spain,2,52,No,Yes,Yes,Yes,Yes,Yes,Price,Twice a month,No
+Female,32,Belgium,1,83,No,No,No,No,Yes,No,Price,Once a week,Yes
+Female,22,Portugal,1,99,Yes,No,No,No,Yes,No,The dietary information,Everyday,No
+Female,47,Austria,5,70,Yes,No,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,28,Luxembourg,5,50,No,Yes,Yes,No,No,Yes,The dietary information,Once a week,Yes
+Female,29,Belgium,5,75,No,No,Yes,No,Yes,Yes,The dietary information,Twice a month,No
+Male,54,Luxembourg,3,77,Yes,No,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Male,28,Spain,5,87,No,No,No,No,Yes,No,Price,Twice a month,Yes
+Female,47,Austria,2,17,Yes,Yes,Yes,No,No,No,Price,Once a week,Yes
+Female,58,France,5,78,No,Yes,No,Yes,Yes,Yes,The dietary information,Everyday,No
+Male,31,Belgium,4,34,No,No,Yes,Yes,No,Yes,Price,Once a week,Yes
+Female,53,Switzerland,4,34,No,No,Yes,No,No,Yes,Quality of products,Everyday,No
+Male,45,Portugal,3,47,No,Yes,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,36,Switzerland,1,55,Yes,Yes,Yes,Yes,No,Yes,The dietary information,Once a week,Yes
+Male,49,Austria,2,100,Yes,Yes,Yes,No,Yes,Yes,The dietary information,Everyday,Yes
+Female,27,Italy,3,43,Yes,Yes,Yes,Yes,Yes,No,Quality of products,Once a week,Yes
+Female,60,Switzerland,5,43,Yes,No,No,No,No,Yes,The dietary information,Once a week,Yes
+Male,60,Luxembourg,2,25,No,Yes,No,No,Yes,No,Quality of products,Everyday,No
+Male,50,Spain,4,47,No,Yes,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Female,49,Belgium,5,64,Yes,No,No,Yes,Yes,Yes,Quality of products,Twice a month,No
+Male,24,Austria,1,32,Yes,Yes,No,Yes,Yes,Yes,Price,Everyday,Yes
+Female,35,Italy,4,70,No,Yes,No,Yes,Yes,Yes,Price,Once a week,Yes
+Female,40,Luxembourg,3,29,No,No,No,No,Yes,Yes,Quality of products,Everyday,Yes
+Male,23,France,3,98,No,No,No,No,No,Yes,The dietary information,Everyday,Yes
+Male,34,Portugal,5,42,No,No,Yes,No,Yes,Yes,Price,Once a week,Yes
+Female,23,Portugal,3,25,Yes,Yes,Yes,Yes,Yes,Yes,The dietary information,Everyday,Yes
+Female,45,Portugal,2,37,No,No,Yes,No,No,Yes,Quality of products,Everyday,Yes
+Female,49,Luxembourg,2,77,No,No,No,No,Yes,Yes,Price,Once a week,Yes
+Male,33,Spain,2,31,Yes,No,Yes,Yes,Yes,Yes,Price,Once a week,Yes
+Male,33,Italy,2,29,No,Yes,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Female,56,Luxembourg,3,83,No,Yes,No,Yes,No,Yes,Price,Once a week,Yes
+Male,48,France,3,80,No,Yes,No,Yes,Yes,No,Price,Twice a month,No
+Female,41,Spain,1,63,Yes,Yes,Yes,Yes,Yes,Yes,Price,Once a week,No
+Male,60,France,3,40,Yes,Yes,Yes,Yes,Yes,Yes,Price,Once a week,Yes
+Male,59,Belgium,5,57,No,Yes,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Male,45,Austria,4,24,Yes,No,Yes,Yes,Yes,Yes,Quality of products,Everyday,Yes
+Male,58,Portugal,1,88,No,Yes,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Female,57,Switzerland,5,82,Yes,No,No,Yes,Yes,No,Quality of products,Once a week,Yes
+Male,38,Spain,4,12,Yes,No,Yes,Yes,Yes,No,Price,Once a week,No
+Male,25,Italy,4,70,Yes,Yes,Yes,Yes,Yes,No,The dietary information,Everyday,No
+Male,21,Belgium,3,73,Yes,No,No,No,Yes,Yes,Price,Twice a month,No
+Male,24,Luxembourg,1,44,No,Yes,Yes,No,Yes,Yes,The dietary information,Twice a month,Yes
+Male,22,Austria,1,29,Yes,Yes,Yes,Yes,Yes,Yes,Quality of products,Everyday,No
+Female,27,Switzerland,5,26,No,Yes,Yes,Yes,No,Yes,Price,Everyday,No
+Female,48,France,2,94,No,Yes,Yes,No,Yes,No,The dietary information,Once a week,Yes
+Female,54,Switzerland,4,15,Yes,Yes,Yes,Yes,Yes,No,Quality of products,Everyday,Yes
+Female,51,Belgium,1,27,No,No,Yes,No,Yes,Yes,Price,Everyday,Yes
+Female,37,France,3,53,No,No,No,No,No,Yes,Quality of products,Twice a month,No
+Female,47,France,3,38,No,No,Yes,No,Yes,Yes,Quality of products,Once a week,Yes
+Female,33,Luxembourg,1,10,Yes,Yes,No,Yes,Yes,Yes,Price,Once a week,No
+Male,37,Austria,5,93,No,Yes,No,Yes,Yes,No,Price,Twice a month,No
+Male,60,Spain,2,79,No,Yes,Yes,Yes,No,Yes,Price,Everyday,Yes
+Female,46,Spain,1,76,No,Yes,Yes,No,No,No,The dietary information,Once a week,No
+Female,49,Italy,2,90,No,Yes,Yes,Yes,Yes,No,Quality of products,Everyday,No
+Male,57,Spain,5,77,No,Yes,No,Yes,No,Yes,Price,Once a week,Yes
+Female,49,Spain,4,98,Yes,Yes,No,No,No,Yes,Price,Everyday,Yes
+Male,54,Italy,2,61,Yes,Yes,No,Yes,Yes,Yes,The dietary information,Everyday,Yes
+Female,37,Belgium,4,68,Yes,No,No,No,No,No,Quality of products,Everyday,Yes
+Male,22,Portugal,4,14,No,No,Yes,Yes,Yes,No,Quality of products,Once a week,Yes
+Male,24,Portugal,3,70,Yes,No,Yes,Yes,Yes,Yes,Quality of products,Everyday,Yes
+Male,59,Switzerland,5,48,No,Yes,Yes,Yes,Yes,Yes,Price,Twice a month,Yes
+Male,29,Spain,1,98,Yes,No,No,Yes,No,Yes,Quality of products,Twice a month,Yes
+Female,26,Switzerland,3,46,No,No,Yes,Yes,No,Yes,Quality of products,Once a week,Yes
+Female,35,Belgium,5,29,No,No,No,Yes,Yes,Yes,The dietary information,Everyday,No
+Female,21,Luxembourg,1,84,Yes,No,Yes,No,Yes,Yes,Price,Once a week,Yes
+Male,41,France,2,86,No,Yes,No,Yes,Yes,No,Price,Everyday,Yes
+Female,29,Belgium,4,30,Yes,Yes,No,Yes,Yes,Yes,Price,Once a week,Yes
+Male,47,Portugal,3,41,Yes,Yes,Yes,No,Yes,No,Quality of products,Once a week,Yes
+Female,51,Luxembourg,5,86,No,No,Yes,No,Yes,No,Price,Once a week,Yes
+Female,53,France,5,46,Yes,Yes,Yes,No,No,Yes,The dietary information,Once a week,Yes
+Female,57,Belgium,1,43,No,No,No,Yes,No,No,The dietary information,Once a week,Yes
+Male,57,Austria,5,98,Yes,Yes,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Male,28,Portugal,3,13,No,Yes,No,Yes,No,Yes,Quality of products,Once a week,No
+Male,26,Belgium,5,12,Yes,Yes,Yes,Yes,Yes,Yes,Price,Everyday,Yes
+Female,22,Portugal,3,71,Yes,Yes,No,Yes,No,Yes,Quality of products,Twice a month,Yes
+Female,30,Austria,1,25,Yes,No,Yes,Yes,No,Yes,The dietary information,Everyday,Yes
+Male,25,Spain,1,65,No,No,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,26,Spain,3,56,Yes,No,Yes,No,Yes,No,Quality of products,Everyday,Yes
+Female,41,Belgium,4,48,Yes,Yes,Yes,No,Yes,Yes,The dietary information,Twice a month,No
+Male,25,France,5,66,Yes,No,No,Yes,Yes,Yes,Price,Once a week,Yes
+Female,47,Belgium,1,67,No,No,No,No,Yes,Yes,Quality of products,Twice a month,Yes
+Male,44,Belgium,4,51,Yes,No,Yes,No,Yes,Yes,Quality of products,Once a week,Yes
+Female,41,Portugal,1,36,Yes,Yes,Yes,Yes,Yes,No,Price,Once a week,Yes
+Male,55,Luxembourg,4,45,Yes,No,Yes,No,Yes,Yes,The dietary information,Once a week,Yes
+Female,40,Austria,4,89,Yes,Yes,No,Yes,No,Yes,The dietary information,Everyday,Yes
+Female,38,Luxembourg,1,13,Yes,No,No,No,Yes,No,Price,Everyday,Yes
+Female,44,Italy,3,15,No,No,Yes,Yes,No,Yes,Price,Twice a month,Yes
+Male,59,Spain,5,77,Yes,No,Yes,No,Yes,No,The dietary information,Once a week,No
+Female,21,Italy,5,51,No,No,Yes,No,Yes,No,Price,Everyday,No
+Male,31,Austria,3,83,Yes,No,Yes,No,Yes,No,Price,Once a week,No
+Female,44,Italy,5,61,No,Yes,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,21,France,5,58,No,No,No,Yes,Yes,Yes,Price,Once a week,No
+Male,24,Luxembourg,4,22,Yes,No,No,Yes,No,No,Quality of products,Everyday,Yes
+Female,60,France,2,45,No,Yes,No,No,No,Yes,Price,Once a week,Yes
+Male,39,Austria,1,55,Yes,Yes,No,Yes,No,Yes,The dietary information,Twice a month,Yes
+Male,48,Switzerland,3,70,Yes,Yes,No,Yes,Yes,No,Quality of products,Once a week,Yes
+Male,37,Italy,3,69,Yes,No,No,Yes,Yes,Yes,The dietary information,Everyday,No
+Male,40,Belgium,3,100,No,No,No,Yes,Yes,Yes,The dietary information,Twice a month,Yes
+Female,45,Switzerland,4,83,No,Yes,No,Yes,Yes,No,Price,Twice a month,Yes
+Male,27,France,3,44,No,Yes,Yes,No,Yes,Yes,Price,Once a week,No
+Male,40,Spain,4,33,No,Yes,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Female,35,France,4,41,Yes,Yes,Yes,No,Yes,Yes,Price,Twice a month,Yes
+Female,49,Portugal,4,50,Yes,No,Yes,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,56,Italy,1,36,Yes,No,No,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,54,Luxembourg,2,91,Yes,No,No,No,Yes,Yes,Price,Once a week,No
+Female,46,France,4,74,No,Yes,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,27,Portugal,3,39,No,No,Yes,Yes,Yes,Yes,Quality of products,Everyday,Yes
+Male,27,Spain,4,41,No,No,Yes,Yes,No,Yes,The dietary information,Everyday,Yes
+Female,39,Austria,1,75,Yes,No,Yes,No,No,No,Price,Once a week,Yes
+Female,31,Portugal,1,88,No,No,No,Yes,No,Yes,Quality of products,Twice a month,Yes
+Male,22,Switzerland,5,38,Yes,Yes,No,No,Yes,No,The dietary information,Once a week,Yes
+Female,23,France,3,94,Yes,Yes,Yes,Yes,Yes,No,The dietary information,Twice a month,No
+Female,37,Switzerland,2,13,Yes,No,Yes,No,Yes,Yes,Quality of products,Everyday,No
+Female,53,Luxembourg,5,86,No,No,Yes,Yes,Yes,No,The dietary information,Twice a month,No
+Male,28,Spain,3,27,No,No,No,Yes,Yes,Yes,Quality of products,Once a week,No
+Female,53,Austria,4,50,No,Yes,Yes,No,Yes,Yes,Price,Everyday,No
+Female,46,Switzerland,2,93,No,Yes,Yes,Yes,Yes,Yes,Price,Once a week,No
+Male,20,Luxembourg,2,78,No,Yes,No,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,25,France,5,17,Yes,No,No,No,Yes,Yes,Quality of products,Twice a month,Yes
+Female,35,France,4,16,Yes,Yes,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,28,Spain,1,27,Yes,Yes,Yes,No,Yes,Yes,Quality of products,Twice a month,Yes
+Male,37,Belgium,4,91,No,Yes,No,Yes,Yes,Yes,Price,Once a week,Yes
+Female,56,Belgium,5,78,No,Yes,Yes,No,Yes,Yes,Quality of products,Once a week,Yes
+Female,52,Portugal,4,43,No,No,Yes,No,No,No,The dietary information,Twice a month,No
+Female,43,France,5,91,Yes,Yes,No,No,Yes,Yes,Quality of products,Once a week,Yes
+Male,28,Switzerland,4,27,Yes,Yes,Yes,Yes,Yes,No,The dietary information,Everyday,Yes
+Female,56,Italy,2,19,Yes,Yes,No,Yes,Yes,No,Quality of products,Once a week,No
+Female,43,Spain,2,74,Yes,Yes,Yes,No,Yes,Yes,Price,Everyday,Yes
+Female,46,France,4,79,No,No,No,No,Yes,Yes,Price,Once a week,No
+Male,45,France,3,80,Yes,No,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,49,Austria,5,48,No,Yes,No,Yes,Yes,Yes,The dietary information,Twice a month,Yes
+Female,48,Spain,1,56,No,No,No,No,Yes,Yes,Quality of products,Everyday,No
+Female,45,Belgium,3,51,Yes,Yes,Yes,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,45,Switzerland,3,75,No,No,No,Yes,Yes,No,Quality of products,Once a week,Yes
+Male,37,Luxembourg,4,72,No,Yes,No,Yes,Yes,Yes,Quality of products,Everyday,Yes
+Female,41,Switzerland,2,85,No,Yes,Yes,Yes,No,Yes,The dietary information,Everyday,Yes
+Female,24,Portugal,3,54,No,Yes,No,Yes,No,Yes,Price,Everyday,Yes
+Male,58,Luxembourg,1,86,Yes,No,No,Yes,Yes,Yes,The dietary information,Everyday,Yes
+Female,60,Portugal,2,24,Yes,Yes,No,No,Yes,No,Quality of products,Everyday,Yes
+Female,45,Portugal,1,75,No,Yes,No,No,Yes,Yes,Price,Once a week,Yes
+Female,35,Belgium,5,98,No,No,No,Yes,Yes,Yes,Price,Twice a month,Yes
+Female,35,Luxembourg,4,21,No,Yes,Yes,Yes,No,Yes,Quality of products,Once a week,Yes
+Male,33,Belgium,3,10,No,Yes,Yes,No,Yes,No,Price,Twice a month,Yes
+Male,34,Belgium,2,55,No,Yes,No,Yes,Yes,No,Price,Once a week,Yes
+Female,51,Portugal,2,92,Yes,No,No,Yes,Yes,Yes,The dietary information,Twice a month,Yes
+Male,60,France,1,40,Yes,Yes,No,No,Yes,Yes,Price,Once a week,Yes
+Male,48,Luxembourg,1,56,No,No,Yes,No,Yes,No,Price,Everyday,No
+Female,33,Portugal,3,59,Yes,No,Yes,No,No,No,The dietary information,Once a week,No
+Female,30,Spain,5,55,No,No,Yes,No,Yes,Yes,Quality of products,Twice a month,No
+Male,26,Italy,3,96,Yes,Yes,Yes,No,Yes,Yes,Quality of products,Twice a month,Yes
+Male,32,Spain,2,25,Yes,No,Yes,Yes,Yes,Yes,Quality of products,Everyday,Yes
+Female,50,Portugal,2,99,No,No,No,Yes,Yes,No,Price,Everyday,Yes
+Female,36,Portugal,4,95,Yes,No,Yes,No,Yes,Yes,Quality of products,Once a week,Yes
+Male,41,Belgium,3,73,Yes,Yes,Yes,Yes,Yes,Yes,Quality of products,Everyday,Yes
+Male,31,Austria,4,86,No,Yes,No,No,Yes,Yes,Quality of products,Twice a month,Yes
+Female,58,Italy,3,13,No,No,Yes,Yes,Yes,No,The dietary information,Everyday,Yes
+Female,24,Luxembourg,3,28,Yes,No,No,No,Yes,Yes,Price,Twice a month,No
+Male,53,Italy,5,73,No,No,No,No,Yes,No,Quality of products,Once a week,Yes
+Female,55,Belgium,5,96,Yes,Yes,No,No,Yes,No,Quality of products,Everyday,No
+Male,48,Austria,5,73,Yes,Yes,Yes,Yes,Yes,No,The dietary information,Once a week,Yes
+Male,37,Belgium,3,82,Yes,Yes,No,Yes,Yes,No,Quality of products,Once a week,No
+Female,31,Austria,3,82,No,Yes,No,No,Yes,Yes,The dietary information,Once a week,No
+Female,26,Italy,4,79,No,No,Yes,Yes,Yes,Yes,The dietary information,Once a week,No
+Female,45,Italy,5,40,No,No,Yes,No,Yes,No,The dietary information,Once a week,Yes
+Male,33,Spain,2,35,No,No,No,Yes,No,No,The dietary information,Everyday,Yes
+Female,34,Spain,5,15,No,No,Yes,Yes,No,No,Price,Once a week,Yes
+Male,56,Italy,5,82,No,No,Yes,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,41,Austria,2,24,No,No,No,No,Yes,No,Quality of products,Twice a month,Yes
+Female,33,Portugal,3,17,No,Yes,Yes,Yes,Yes,Yes,The dietary information,Once a week,No
+Female,28,Luxembourg,5,97,Yes,No,No,Yes,Yes,Yes,The dietary information,Everyday,No
+Male,53,Portugal,4,42,No,Yes,No,No,Yes,No,Quality of products,Everyday,No
+Female,56,Switzerland,1,89,No,Yes,Yes,Yes,Yes,No,The dietary information,Once a week,Yes
+Male,40,Austria,4,87,No,Yes,Yes,Yes,Yes,Yes,Price,Twice a month,No
+Female,36,Austria,3,67,No,Yes,Yes,No,Yes,Yes,Price,Once a week,Yes
+Male,49,Portugal,5,80,Yes,No,No,No,Yes,Yes,Price,Everyday,Yes
+Male,44,Portugal,4,10,No,Yes,No,No,Yes,No,The dietary information,Everyday,Yes
+Male,47,Switzerland,2,48,Yes,No,No,No,No,Yes,Price,Twice a month,Yes
+Male,51,Italy,3,93,Yes,Yes,Yes,Yes,Yes,Yes,Price,Everyday,Yes
+Male,25,Italy,1,34,Yes,No,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,49,Portugal,5,58,No,No,No,No,Yes,No,Quality of products,Everyday,Yes
+Male,42,Spain,1,25,Yes,No,Yes,Yes,Yes,Yes,Price,Once a week,No
+Female,34,Belgium,3,100,Yes,Yes,Yes,No,Yes,No,The dietary information,Once a week,Yes
+Male,56,Luxembourg,3,56,Yes,Yes,Yes,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,25,Austria,5,44,No,Yes,Yes,Yes,Yes,Yes,The dietary information,Twice a month,Yes
+Male,41,Austria,4,59,No,Yes,No,Yes,No,Yes,The dietary information,Everyday,No
+Male,50,Belgium,2,96,No,No,Yes,Yes,No,No,Quality of products,Once a week,No
+Male,43,Italy,4,23,Yes,No,Yes,No,Yes,Yes,Price,Once a week,Yes
+Female,56,Portugal,1,45,No,Yes,No,No,Yes,Yes,Price,Twice a month,Yes
+Male,31,Austria,3,54,No,Yes,Yes,Yes,No,Yes,Quality of products,Once a week,Yes
+Female,30,Spain,4,32,Yes,Yes,No,No,No,Yes,Quality of products,Everyday,Yes
+Female,42,Switzerland,5,33,No,No,Yes,Yes,Yes,Yes,The dietary information,Everyday,No
+Female,23,Austria,4,67,No,Yes,Yes,No,Yes,Yes,Price,Once a week,Yes
+Male,44,France,3,99,No,No,Yes,No,Yes,Yes,The dietary information,Everyday,Yes
+Male,22,Luxembourg,4,98,Yes,No,No,Yes,No,Yes,Quality of products,Once a week,No
+Female,23,Belgium,4,72,Yes,Yes,No,No,Yes,Yes,Quality of products,Everyday,Yes
+Male,32,Portugal,5,73,Yes,No,Yes,No,Yes,Yes,Quality of products,Once a week,Yes
+Male,42,Switzerland,5,48,Yes,No,Yes,Yes,Yes,No,Quality of products,Once a week,Yes
+Female,21,Belgium,1,29,No,No,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,45,France,1,44,Yes,Yes,Yes,No,Yes,Yes,Price,Once a week,No
+Male,53,Belgium,2,13,Yes,Yes,Yes,Yes,No,Yes,The dietary information,Once a week,Yes
+Male,57,Portugal,1,86,No,Yes,Yes,No,Yes,Yes,Quality of products,Everyday,Yes
+Male,32,Belgium,2,56,No,Yes,Yes,Yes,No,Yes,Price,Once a week,Yes
+Female,50,Austria,5,90,No,No,Yes,No,Yes,Yes,Quality of products,Once a week,Yes
+Male,28,Austria,2,69,Yes,Yes,No,No,Yes,Yes,The dietary information,Everyday,Yes
+Female,37,Spain,3,20,No,No,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,33,Spain,1,62,Yes,Yes,Yes,No,Yes,No,Price,Once a week,Yes
+Female,29,Italy,1,54,No,Yes,No,Yes,No,Yes,Price,Everyday,No
+Female,23,Belgium,2,13,Yes,Yes,No,No,Yes,Yes,Price,Once a week,Yes
+Male,50,Spain,1,69,No,Yes,Yes,No,Yes,No,The dietary information,Twice a month,Yes
+Female,31,Austria,2,64,Yes,No,No,No,Yes,Yes,Quality of products,Twice a month,Yes
+Male,38,Belgium,1,10,No,No,Yes,Yes,Yes,Yes,Price,Once a week,No
+Male,50,Spain,4,87,Yes,Yes,No,Yes,No,Yes,Quality of products,Twice a month,Yes
+Female,43,Portugal,3,40,Yes,Yes,No,No,Yes,No,The dietary information,Once a week,Yes
+Female,48,Italy,3,51,No,Yes,No,No,Yes,No,Price,Once a week,Yes
+Female,31,Italy,5,90,Yes,No,Yes,No,No,Yes,The dietary information,Twice a month,Yes
+Female,53,Luxembourg,3,50,No,No,Yes,Yes,Yes,Yes,The dietary information,Twice a month,No
+Male,58,Switzerland,5,80,No,No,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,39,Belgium,5,60,Yes,Yes,No,Yes,Yes,Yes,Price,Everyday,No
+Female,20,Switzerland,2,73,Yes,No,Yes,Yes,Yes,Yes,Price,Once a week,Yes
+Male,41,Spain,2,62,Yes,No,Yes,No,Yes,Yes,The dietary information,Once a week,Yes
+Female,26,France,5,93,No,Yes,Yes,Yes,Yes,Yes,The dietary information,Once a week,No
+Female,55,France,5,53,Yes,No,Yes,No,Yes,Yes,The dietary information,Once a week,No
+Female,31,Switzerland,1,20,No,No,Yes,No,No,No,Price,Everyday,No
+Male,36,Belgium,1,14,Yes,Yes,Yes,Yes,Yes,Yes,The dietary information,Twice a month,Yes
+Female,29,Portugal,4,17,Yes,Yes,Yes,No,Yes,Yes,Price,Once a week,Yes
+Female,21,Switzerland,5,72,No,Yes,No,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Female,33,Luxembourg,4,89,No,No,No,Yes,Yes,No,The dietary information,Once a week,Yes
+Female,42,France,5,99,No,No,Yes,No,Yes,Yes,The dietary information,Once a week,No
+Male,23,Switzerland,3,52,No,Yes,No,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,29,Spain,5,68,No,No,Yes,Yes,No,Yes,The dietary information,Once a week,No
+Male,35,Austria,5,57,No,Yes,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Male,59,Luxembourg,2,91,No,No,No,No,No,Yes,The dietary information,Once a week,Yes
+Female,59,Portugal,4,96,No,Yes,No,No,No,No,The dietary information,Once a week,Yes
+Male,22,Belgium,5,66,Yes,Yes,Yes,Yes,No,No,The dietary information,Once a week,No
+Female,32,Luxembourg,4,51,Yes,Yes,No,Yes,No,Yes,The dietary information,Once a week,Yes
+Male,24,Luxembourg,5,40,No,No,Yes,No,Yes,Yes,Quality of products,Everyday,Yes
+Female,22,Spain,5,75,No,Yes,Yes,Yes,No,Yes,The dietary information,Once a week,Yes
+Female,60,Luxembourg,5,26,Yes,Yes,No,No,Yes,Yes,Price,Twice a month,Yes
+Female,32,Luxembourg,3,11,Yes,Yes,Yes,Yes,No,Yes,Price,Twice a month,Yes
+Male,51,Italy,2,72,No,No,Yes,Yes,Yes,No,The dietary information,Everyday,Yes
+Male,59,Switzerland,5,64,Yes,No,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,41,Luxembourg,1,74,No,No,No,Yes,Yes,Yes,Price,Once a week,Yes
+Male,31,Austria,5,42,No,Yes,No,Yes,No,No,The dietary information,Once a week,No
+Male,23,Italy,1,19,Yes,No,No,Yes,Yes,Yes,Price,Twice a month,Yes
+Male,50,Italy,3,42,No,No,Yes,No,Yes,Yes,The dietary information,Once a week,No
+Male,34,Italy,1,23,No,No,Yes,Yes,Yes,Yes,Price,Once a week,No
+Male,58,Luxembourg,3,78,No,No,Yes,Yes,No,Yes,The dietary information,Once a week,No
+Female,35,Switzerland,2,40,No,No,Yes,Yes,No,No,Quality of products,Everyday,Yes
+Male,56,Spain,1,13,Yes,No,Yes,Yes,No,No,The dietary information,Everyday,Yes
+Male,23,Belgium,5,22,Yes,Yes,Yes,Yes,Yes,Yes,Price,Twice a month,Yes
+Female,31,Switzerland,5,64,No,Yes,Yes,Yes,Yes,Yes,The dietary information,Twice a month,No
+Female,36,Austria,4,31,Yes,Yes,Yes,No,No,No,Price,Everyday,Yes
+Male,28,Italy,5,69,No,No,No,No,Yes,No,Quality of products,Everyday,No
+Male,28,France,3,54,Yes,No,No,No,Yes,No,Quality of products,Once a week,Yes
+Male,36,Italy,3,13,Yes,Yes,No,Yes,No,Yes,Quality of products,Everyday,Yes
+Female,30,Switzerland,4,82,No,No,No,No,No,Yes,The dietary information,Everyday,Yes
+Female,25,Austria,1,31,No,No,Yes,Yes,No,Yes,The dietary information,Once a week,Yes
+Male,57,Switzerland,1,24,Yes,No,Yes,Yes,Yes,Yes,Price,Once a week,No
+Female,47,Luxembourg,1,40,No,Yes,Yes,No,Yes,Yes,Quality of products,Everyday,No
+Male,34,Spain,3,67,Yes,Yes,Yes,No,Yes,Yes,The dietary information,Once a week,No
+Male,56,Luxembourg,5,93,No,No,Yes,Yes,Yes,No,The dietary information,Once a week,No
+Female,31,Italy,3,97,No,Yes,No,No,No,No,The dietary information,Everyday,Yes
+Male,52,Spain,1,83,No,Yes,Yes,Yes,Yes,Yes,Quality of products,Twice a month,Yes
+Female,34,Italy,1,27,No,Yes,No,Yes,Yes,No,Quality of products,Twice a month,Yes
+Female,54,Luxembourg,1,48,No,Yes,No,No,No,Yes,Quality of products,Once a week,Yes
+Female,40,Portugal,4,80,Yes,Yes,No,Yes,Yes,Yes,Quality of products,Everyday,Yes
+Male,33,Portugal,2,30,Yes,No,Yes,Yes,Yes,Yes,The dietary information,Everyday,Yes
+Male,42,Italy,2,81,Yes,Yes,No,No,Yes,No,Quality of products,Once a week,Yes
+Female,42,France,3,85,No,No,Yes,No,Yes,Yes,Quality of products,Everyday,Yes
+Male,58,France,3,79,No,Yes,Yes,Yes,Yes,Yes,Price,Once a week,Yes
+Female,27,France,3,50,No,Yes,Yes,No,Yes,Yes,Price,Twice a month,No
+Female,34,Belgium,5,30,Yes,Yes,No,Yes,Yes,No,Quality of products,Twice a month,Yes
+Male,46,Italy,1,70,No,No,Yes,Yes,Yes,Yes,Quality of products,Everyday,Yes
+Female,46,Switzerland,4,44,No,Yes,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,58,Portugal,2,29,Yes,Yes,No,No,Yes,Yes,Price,Twice a month,No
+Male,35,Spain,2,88,No,No,Yes,Yes,Yes,No,The dietary information,Twice a month,Yes
+Female,32,Austria,3,94,No,Yes,Yes,Yes,No,No,Quality of products,Once a week,No
+Male,52,Austria,3,65,No,Yes,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Male,37,France,2,59,Yes,Yes,Yes,Yes,Yes,Yes,Price,Twice a month,No
+Female,58,Switzerland,4,37,No,No,No,No,No,No,The dietary information,Once a week,Yes
+Female,43,Austria,1,20,No,Yes,Yes,Yes,Yes,Yes,Quality of products,Everyday,No
+Male,59,Spain,5,97,No,Yes,Yes,No,No,No,Quality of products,Once a week,Yes
+Male,53,Belgium,2,86,No,No,No,No,Yes,No,The dietary information,Everyday,Yes
+Male,30,Austria,2,57,No,No,Yes,Yes,Yes,No,Quality of products,Twice a month,Yes
+Female,20,Spain,2,37,No,No,Yes,Yes,No,Yes,Price,Everyday,Yes
+Male,53,Italy,5,39,No,No,Yes,No,Yes,Yes,Price,Twice a month,No
+Female,39,Spain,5,39,Yes,No,No,Yes,Yes,No,Quality of products,Everyday,Yes
+Male,47,France,3,76,Yes,No,No,Yes,No,Yes,Quality of products,Twice a month,Yes
+Male,44,Italy,3,58,Yes,No,No,Yes,No,Yes,The dietary information,Twice a month,Yes
+Female,48,Luxembourg,2,77,Yes,No,No,Yes,No,Yes,Quality of products,Once a week,Yes
+Female,20,Belgium,2,48,No,No,No,Yes,No,Yes,The dietary information,Everyday,No
+Female,45,Italy,3,91,No,No,No,Yes,Yes,Yes,Quality of products,Twice a month,Yes
+Male,33,Belgium,1,42,No,No,No,No,Yes,Yes,The dietary information,Twice a month,Yes
+Female,39,Switzerland,5,92,No,Yes,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,32,Austria,1,33,No,Yes,Yes,Yes,No,Yes,Price,Twice a month,Yes
+Male,20,France,4,42,No,No,No,Yes,No,No,Quality of products,Everyday,Yes
+Male,45,Belgium,1,27,No,Yes,No,No,No,No,Price,Once a week,Yes
+Male,35,Switzerland,5,100,Yes,No,No,No,Yes,No,The dietary information,Everyday,Yes
+Male,50,Luxembourg,4,86,Yes,Yes,Yes,Yes,No,Yes,The dietary information,Once a week,Yes
+Male,54,Austria,4,50,Yes,No,No,No,No,Yes,The dietary information,Everyday,Yes
+Male,39,Spain,1,81,Yes,Yes,No,Yes,Yes,No,Price,Once a week,Yes
+Male,37,Portugal,2,38,Yes,Yes,Yes,No,No,Yes,Quality of products,Twice a month,Yes
+Female,46,Italy,1,53,No,No,Yes,No,No,No,Price,Once a week,Yes
+Male,57,Spain,1,92,No,No,Yes,Yes,Yes,No,Quality of products,Everyday,No
+Female,53,Portugal,2,43,No,No,No,Yes,No,Yes,The dietary information,Everyday,Yes
+Female,38,Portugal,3,67,No,No,No,Yes,Yes,No,The dietary information,Everyday,Yes
+Female,37,Belgium,3,25,No,No,No,No,Yes,Yes,Price,Once a week,Yes
+Male,46,France,1,63,No,No,No,Yes,Yes,Yes,Price,Once a week,Yes
+Male,60,Italy,3,69,Yes,Yes,No,Yes,Yes,Yes,Quality of products,Twice a month,Yes
+Male,36,Spain,5,21,Yes,Yes,No,No,No,Yes,The dietary information,Everyday,Yes
+Male,47,Luxembourg,1,41,Yes,No,No,Yes,Yes,No,Price,Everyday,Yes
+Male,44,France,1,73,No,No,Yes,Yes,Yes,No,Quality of products,Everyday,No
+Female,23,Italy,2,26,No,No,Yes,No,Yes,No,Quality of products,Once a week,Yes
+Female,49,France,5,57,No,No,No,No,No,Yes,The dietary information,Once a week,Yes
+Female,51,Italy,2,53,Yes,No,Yes,Yes,Yes,Yes,The dietary information,Twice a month,Yes
+Female,53,Spain,3,16,Yes,No,No,No,Yes,Yes,Price,Everyday,Yes
+Male,25,Belgium,1,46,No,No,No,Yes,No,Yes,Price,Once a week,Yes
+Male,37,Italy,3,96,Yes,Yes,Yes,Yes,Yes,Yes,Quality of products,Twice a month,Yes
+Male,55,Austria,5,42,No,Yes,No,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,34,Spain,1,33,No,Yes,No,Yes,Yes,No,Quality of products,Once a week,Yes
+Female,37,Belgium,4,97,Yes,Yes,Yes,Yes,Yes,Yes,Quality of products,Once a week,No
+Male,23,Luxembourg,4,87,Yes,No,No,Yes,Yes,Yes,Price,Twice a month,Yes
+Female,43,Spain,1,93,No,No,Yes,Yes,Yes,Yes,The dietary information,Twice a month,Yes
+Female,54,Luxembourg,3,64,Yes,No,Yes,Yes,Yes,Yes,Price,Once a week,Yes
+Female,28,Luxembourg,4,10,Yes,No,No,Yes,Yes,No,Quality of products,Twice a month,No
+Female,22,Italy,5,18,No,Yes,No,Yes,Yes,Yes,Quality of products,Twice a month,Yes
+Male,23,France,3,99,No,Yes,No,No,Yes,Yes,The dietary information,Everyday,Yes
+Female,46,Italy,3,54,No,No,Yes,No,Yes,Yes,Price,Twice a month,Yes
+Female,44,Italy,3,51,Yes,Yes,Yes,No,Yes,Yes,The dietary information,Everyday,Yes
+Female,36,Austria,4,55,No,Yes,No,Yes,Yes,Yes,Quality of products,Once a week,No
+Female,42,Belgium,5,19,No,Yes,Yes,No,Yes,Yes,The dietary information,Everyday,Yes
+Female,25,Luxembourg,2,47,No,Yes,No,No,No,Yes,Quality of products,Everyday,Yes
+Female,50,Spain,2,86,Yes,Yes,Yes,No,No,Yes,Quality of products,Once a week,Yes
+Female,60,France,2,82,Yes,No,No,No,Yes,No,The dietary information,Twice a month,Yes
+Female,53,Spain,3,82,Yes,Yes,Yes,No,Yes,Yes,Price,Twice a month,Yes
+Male,38,Italy,4,92,Yes,No,Yes,No,Yes,Yes,Quality of products,Twice a month,Yes
+Female,33,Luxembourg,2,80,Yes,Yes,Yes,Yes,Yes,No,Price,Everyday,Yes
+Male,25,Belgium,2,97,Yes,Yes,Yes,No,No,Yes,Price,Once a week,Yes
+Female,28,France,3,18,No,Yes,Yes,No,No,Yes,The dietary information,Everyday,Yes
+Female,47,Spain,3,32,Yes,No,No,Yes,No,No,The dietary information,Everyday,No
+Male,44,Belgium,3,54,Yes,No,Yes,No,No,Yes,Price,Everyday,Yes
+Male,59,Luxembourg,3,53,Yes,Yes,Yes,Yes,No,No,Quality of products,Twice a month,Yes
+Female,32,Italy,2,76,Yes,No,No,No,Yes,No,The dietary information,Once a week,Yes
+Female,25,Luxembourg,1,53,No,Yes,No,Yes,Yes,No,Quality of products,Once a week,No
+Female,38,Switzerland,4,13,No,No,Yes,No,No,No,Price,Everyday,Yes
+Male,55,Spain,1,32,Yes,Yes,No,No,No,Yes,The dietary information,Once a week,Yes
+Female,54,Switzerland,1,35,Yes,Yes,Yes,No,No,No,The dietary information,Once a week,Yes
+Female,57,Luxembourg,2,68,No,No,Yes,No,No,Yes,Quality of products,Once a week,Yes
+Female,40,Belgium,4,61,No,No,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Male,46,France,1,79,No,No,Yes,No,Yes,Yes,Quality of products,Once a week,Yes
+Male,49,France,1,75,No,Yes,No,Yes,Yes,No,The dietary information,Once a week,Yes
+Female,35,Portugal,2,25,Yes,No,Yes,Yes,Yes,Yes,Price,Twice a month,Yes
+Male,53,Italy,2,65,No,Yes,No,Yes,Yes,No,Quality of products,Twice a month,Yes
+Female,36,Switzerland,3,60,No,No,No,No,Yes,Yes,Price,Everyday,Yes
+Male,53,Italy,4,60,Yes,Yes,Yes,Yes,No,No,Price,Once a week,No
+Female,21,France,1,69,No,Yes,No,No,No,Yes,Price,Twice a month,No
+Female,28,France,2,54,No,Yes,Yes,No,Yes,Yes,Price,Everyday,Yes
+Female,45,Belgium,5,25,No,Yes,Yes,No,Yes,Yes,The dietary information,Twice a month,No
+Female,56,France,4,18,Yes,No,Yes,Yes,Yes,Yes,The dietary information,Once a week,No
+Female,58,Austria,1,71,Yes,Yes,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,42,Luxembourg,4,52,Yes,Yes,No,No,Yes,Yes,The dietary information,Once a week,No
+Female,39,France,3,31,Yes,Yes,Yes,Yes,Yes,Yes,Price,Twice a month,Yes
+Female,29,Switzerland,5,12,Yes,Yes,Yes,Yes,No,Yes,The dietary information,Twice a month,Yes
+Male,30,Belgium,4,68,No,Yes,Yes,Yes,Yes,No,Quality of products,Everyday,Yes
+Female,54,Switzerland,4,79,No,Yes,Yes,Yes,No,Yes,Price,Once a week,Yes
+Female,38,Luxembourg,3,88,Yes,Yes,No,Yes,Yes,No,The dietary information,Twice a month,Yes
+Female,47,Switzerland,5,44,No,No,No,Yes,Yes,No,The dietary information,Once a week,No
+Female,38,Italy,4,69,No,No,No,No,Yes,Yes,The dietary information,Once a week,Yes
+Female,39,Luxembourg,2,66,No,Yes,No,No,Yes,No,Price,Twice a month,Yes
+Male,50,Belgium,5,76,No,No,No,No,Yes,Yes,The dietary information,Everyday,No
+Male,24,France,4,94,No,Yes,Yes,No,No,Yes,The dietary information,Once a week,Yes
+Male,58,France,2,94,Yes,Yes,Yes,Yes,No,Yes,Quality of products,Twice a month,Yes
+Female,23,Italy,1,53,No,Yes,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Female,20,Portugal,5,64,Yes,No,No,Yes,Yes,No,The dietary information,Once a week,Yes
+Male,40,Austria,1,55,No,Yes,No,No,Yes,Yes,The dietary information,Twice a month,Yes
+Female,50,Portugal,3,11,Yes,No,Yes,No,Yes,Yes,Price,Once a week,Yes
+Male,38,Spain,1,20,No,Yes,No,Yes,Yes,Yes,Quality of products,Everyday,No
+Male,34,Switzerland,5,25,Yes,No,Yes,Yes,Yes,Yes,Price,Twice a month,No
+Female,54,Portugal,4,21,Yes,Yes,No,Yes,Yes,Yes,Quality of products,Once a week,No
+Female,53,Italy,5,77,Yes,Yes,No,Yes,No,Yes,Quality of products,Once a week,Yes
+Male,37,Spain,4,27,No,No,Yes,No,No,Yes,The dietary information,Everyday,Yes
+Female,57,Switzerland,2,53,Yes,No,Yes,No,No,No,Quality of products,Once a week,No
+Female,54,Luxembourg,2,44,No,No,No,Yes,Yes,No,Quality of products,Once a week,No
+Male,60,Austria,3,92,Yes,Yes,Yes,No,No,No,Quality of products,Once a week,Yes
+Female,54,Italy,3,60,No,Yes,Yes,Yes,Yes,No,The dietary information,Everyday,Yes
+Male,51,Italy,3,94,No,No,Yes,Yes,Yes,Yes,Quality of products,Everyday,Yes
+Male,55,Italy,2,93,Yes,Yes,Yes,Yes,Yes,No,The dietary information,Twice a month,Yes
+Male,59,Luxembourg,5,89,Yes,No,Yes,No,Yes,No,The dietary information,Once a week,Yes
+Male,54,Luxembourg,3,48,No,No,No,No,Yes,Yes,Price,Twice a month,No
+Female,48,Portugal,1,87,No,No,No,No,No,No,Price,Twice a month,Yes
+Male,44,Switzerland,3,76,No,No,No,No,No,Yes,The dietary information,Once a week,No
+Female,23,France,4,54,Yes,No,No,No,Yes,No,Quality of products,Once a week,Yes
+Male,60,France,5,24,No,Yes,Yes,Yes,Yes,Yes,Price,Once a week,Yes
+Female,60,Italy,5,26,No,Yes,No,Yes,No,No,The dietary information,Once a week,Yes
+Male,43,Austria,3,23,Yes,Yes,No,No,No,No,Price,Once a week,Yes
+Female,21,Austria,5,94,Yes,Yes,No,Yes,Yes,No,Price,Everyday,Yes
+Male,28,Italy,2,81,Yes,No,No,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Female,32,Portugal,2,27,No,No,Yes,No,Yes,Yes,Price,Twice a month,No
+Female,37,Spain,1,77,Yes,No,Yes,No,No,No,Price,Once a week,Yes
+Female,58,Spain,2,95,No,No,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,36,Italy,1,56,Yes,No,No,No,Yes,No,Quality of products,Twice a month,Yes
+Female,34,Switzerland,1,90,No,Yes,No,Yes,Yes,Yes,The dietary information,Everyday,Yes
+Male,40,Luxembourg,4,26,Yes,No,Yes,No,No,Yes,Quality of products,Once a week,Yes
+Male,34,Portugal,2,100,Yes,No,Yes,No,Yes,Yes,Price,Twice a month,Yes
+Female,53,Spain,3,14,Yes,No,No,No,Yes,No,Quality of products,Everyday,Yes
+Female,34,Belgium,3,71,No,No,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Male,40,France,3,64,No,Yes,Yes,Yes,Yes,Yes,Price,Once a week,No
+Male,56,Spain,1,43,Yes,No,No,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,57,Italy,4,90,No,Yes,No,No,No,Yes,The dietary information,Once a week,No
+Female,36,France,1,14,Yes,Yes,Yes,Yes,Yes,Yes,The dietary information,Twice a month,Yes
+Female,47,Spain,4,10,No,Yes,Yes,No,No,Yes,Price,Everyday,Yes
+Male,54,Austria,3,62,Yes,No,Yes,Yes,Yes,Yes,The dietary information,Twice a month,No
+Female,39,Spain,4,74,Yes,Yes,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,54,Spain,4,97,Yes,No,Yes,No,Yes,Yes,The dietary information,Everyday,No
+Male,41,Belgium,1,47,Yes,Yes,Yes,Yes,No,Yes,Price,Everyday,Yes
+Male,40,Spain,1,82,No,No,Yes,Yes,No,Yes,Price,Once a week,Yes
+Male,59,Portugal,2,34,Yes,No,Yes,Yes,Yes,No,Price,Once a week,Yes
+Female,36,France,5,46,Yes,Yes,No,No,Yes,Yes,Quality of products,Everyday,Yes
+Female,25,Portugal,1,81,Yes,No,No,Yes,Yes,Yes,Price,Everyday,Yes
+Female,37,Switzerland,3,32,No,No,Yes,No,No,No,The dietary information,Once a week,Yes
+Male,25,Luxembourg,3,55,Yes,Yes,No,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,26,Austria,3,10,No,Yes,Yes,No,No,No,Quality of products,Everyday,Yes
+Male,31,France,3,61,Yes,No,Yes,Yes,No,Yes,The dietary information,Once a week,Yes
+Female,33,Switzerland,1,53,Yes,No,No,Yes,Yes,Yes,Quality of products,Everyday,No
+Female,48,Italy,3,79,Yes,Yes,No,Yes,Yes,Yes,Price,Twice a month,Yes
+Male,36,Spain,5,34,No,Yes,No,Yes,Yes,No,Price,Everyday,Yes
+Male,53,Switzerland,5,29,No,Yes,Yes,Yes,No,No,The dietary information,Once a week,Yes
+Female,59,Italy,1,91,No,No,No,Yes,Yes,Yes,Price,Everyday,Yes
+Female,57,Luxembourg,3,55,Yes,No,No,No,No,Yes,The dietary information,Once a week,No
+Male,26,France,2,59,Yes,Yes,No,Yes,Yes,No,Quality of products,Everyday,No
+Male,44,Belgium,1,22,Yes,Yes,No,No,Yes,Yes,The dietary information,Everyday,Yes
+Female,54,Spain,2,83,No,Yes,Yes,Yes,Yes,Yes,The dietary information,Once a week,No
+Female,37,Spain,5,43,No,No,Yes,No,Yes,Yes,The dietary information,Everyday,Yes
+Male,26,Spain,4,75,Yes,No,Yes,No,Yes,No,The dietary information,Once a week,Yes
+Female,34,Switzerland,1,93,No,No,No,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Female,54,Portugal,3,24,Yes,No,Yes,No,No,Yes,The dietary information,Everyday,Yes
+Male,55,Italy,5,40,Yes,No,Yes,Yes,Yes,Yes,Price,Once a week,Yes
+Female,32,Luxembourg,5,99,No,No,Yes,No,No,Yes,The dietary information,Everyday,Yes
+Female,35,Italy,1,83,No,No,No,Yes,Yes,No,Quality of products,Once a week,Yes
+Female,37,Switzerland,4,68,No,No,No,Yes,Yes,No,Quality of products,Twice a month,No
+Female,37,Switzerland,4,56,Yes,No,Yes,Yes,No,No,Price,Once a week,No
+Male,25,Belgium,3,80,Yes,Yes,Yes,No,Yes,Yes,Quality of products,Everyday,Yes
+Male,58,Belgium,4,45,Yes,Yes,Yes,Yes,Yes,No,Price,Twice a month,Yes
+Female,41,Italy,3,42,No,No,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,48,Spain,2,13,No,Yes,Yes,No,Yes,No,The dietary information,Once a week,No
+Male,44,Portugal,5,25,No,No,Yes,Yes,Yes,No,Quality of products,Once a week,No
+Male,31,Belgium,3,93,No,No,Yes,No,Yes,No,The dietary information,Everyday,Yes
+Male,24,Switzerland,3,73,No,No,No,No,No,Yes,Price,Once a week,Yes
+Female,57,Italy,1,47,Yes,No,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,30,Portugal,3,85,No,Yes,No,No,Yes,Yes,Quality of products,Everyday,No
+Male,47,Italy,4,51,No,No,No,Yes,No,Yes,Price,Once a week,Yes
+Female,51,Portugal,5,61,No,Yes,Yes,No,Yes,No,Quality of products,Once a week,Yes
+Female,21,Italy,4,99,Yes,No,No,Yes,No,Yes,The dietary information,Once a week,Yes
+Male,35,Italy,4,93,No,Yes,Yes,Yes,No,Yes,The dietary information,Everyday,Yes
+Female,52,Portugal,4,43,Yes,Yes,Yes,No,Yes,Yes,Price,Once a week,Yes
+Male,28,Belgium,1,90,No,Yes,Yes,Yes,Yes,No,The dietary information,Once a week,Yes
+Female,24,France,2,93,No,No,No,Yes,Yes,Yes,The dietary information,Twice a month,No
+Female,49,France,3,26,No,Yes,Yes,No,No,No,The dietary information,Twice a month,Yes
+Male,55,Italy,5,100,No,Yes,Yes,No,Yes,Yes,Quality of products,Everyday,Yes
+Male,39,Austria,5,47,Yes,No,No,No,No,Yes,Quality of products,Once a week,No
+Female,59,France,3,22,Yes,Yes,Yes,Yes,Yes,Yes,Quality of products,Everyday,Yes
+Female,55,France,1,78,No,No,No,Yes,No,No,Quality of products,Twice a month,Yes
+Female,48,Belgium,1,75,Yes,No,Yes,Yes,Yes,Yes,Price,Once a week,Yes
+Female,27,Italy,3,58,Yes,No,No,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,33,Luxembourg,4,14,No,Yes,Yes,Yes,No,Yes,The dietary information,Twice a month,Yes
+Female,28,Italy,5,78,Yes,No,No,Yes,Yes,Yes,Quality of products,Twice a month,Yes
+Female,42,Austria,4,56,Yes,Yes,Yes,No,No,No,The dietary information,Once a week,No
+Female,22,Italy,1,24,No,No,No,No,Yes,No,Quality of products,Once a week,Yes
+Male,39,Spain,5,48,No,Yes,No,Yes,Yes,Yes,Price,Everyday,Yes
+Male,32,Italy,3,49,No,No,No,Yes,No,Yes,Price,Twice a month,Yes
+Female,35,Spain,5,62,No,No,No,No,No,No,The dietary information,Everyday,Yes
+Female,33,Belgium,2,95,Yes,No,Yes,Yes,Yes,No,Price,Once a week,Yes
+Female,49,Italy,4,63,Yes,No,Yes,No,Yes,No,Price,Once a week,No
+Male,36,Luxembourg,5,10,Yes,No,Yes,Yes,No,Yes,Quality of products,Once a week,Yes
+Male,54,France,5,19,Yes,No,Yes,Yes,Yes,No,Price,Twice a month,Yes
+Female,25,France,5,72,No,No,Yes,Yes,No,Yes,The dietary information,Twice a month,Yes
+Female,38,Spain,4,72,No,No,Yes,Yes,No,Yes,Price,Twice a month,Yes
+Male,22,Spain,5,30,Yes,Yes,Yes,Yes,Yes,Yes,Price,Once a week,Yes
+Female,51,Switzerland,4,58,Yes,Yes,Yes,No,No,Yes,The dietary information,Once a week,Yes
+Female,39,Austria,5,70,Yes,No,Yes,Yes,Yes,No,Price,Once a week,No
+Female,56,Belgium,5,43,Yes,No,No,No,Yes,No,The dietary information,Everyday,Yes
+Male,21,France,1,60,No,No,Yes,Yes,Yes,No,Price,Once a week,Yes
+Male,35,Portugal,5,97,No,Yes,Yes,Yes,No,Yes,The dietary information,Once a week,Yes
+Female,25,France,5,11,No,No,No,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,53,Austria,3,82,No,Yes,Yes,No,Yes,Yes,Price,Once a week,Yes
+Male,31,Austria,3,28,Yes,No,No,Yes,Yes,Yes,The dietary information,Everyday,Yes
+Male,29,Luxembourg,4,76,No,No,No,No,Yes,Yes,Quality of products,Once a week,Yes
+Female,30,France,3,56,No,No,Yes,Yes,Yes,Yes,Quality of products,Everyday,Yes
+Female,56,France,2,26,No,Yes,Yes,Yes,Yes,No,The dietary information,Once a week,No
+Female,58,France,4,74,No,No,Yes,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,49,Luxembourg,4,29,Yes,Yes,No,No,No,Yes,Price,Twice a month,No
+Male,48,Luxembourg,1,39,Yes,Yes,No,Yes,Yes,Yes,The dietary information,Everyday,No
+Male,29,France,5,87,Yes,Yes,Yes,No,Yes,Yes,Price,Everyday,Yes
+Male,33,Switzerland,5,99,Yes,No,Yes,No,No,No,Price,Twice a month,Yes
+Female,58,Luxembourg,5,96,Yes,Yes,Yes,No,No,Yes,Price,Once a week,No
+Male,57,Austria,5,19,No,Yes,No,No,No,Yes,Quality of products,Once a week,No
+Female,29,Italy,5,12,Yes,No,No,No,Yes,Yes,Price,Once a week,Yes
+Male,35,France,5,68,No,No,No,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,24,Luxembourg,4,65,No,Yes,Yes,Yes,Yes,Yes,Price,Twice a month,No
+Male,59,France,1,64,Yes,No,No,No,Yes,Yes,The dietary information,Everyday,Yes
+Male,48,France,4,53,No,No,No,No,Yes,Yes,Quality of products,Everyday,Yes
+Female,29,Spain,4,91,Yes,No,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Male,34,Italy,3,45,No,Yes,Yes,No,No,Yes,The dietary information,Everyday,No
+Female,57,Portugal,5,15,No,Yes,Yes,No,Yes,No,Quality of products,Twice a month,No
+Female,22,Switzerland,3,94,No,Yes,Yes,No,Yes,Yes,The dietary information,Twice a month,Yes
+Male,39,France,2,30,Yes,No,Yes,No,Yes,Yes,The dietary information,Twice a month,Yes
+Male,44,Luxembourg,2,26,Yes,No,No,No,Yes,Yes,Price,Once a week,Yes
+Female,28,Switzerland,3,77,No,Yes,No,No,Yes,Yes,Quality of products,Twice a month,Yes
+Male,21,Italy,5,13,No,No,Yes,Yes,No,Yes,Quality of products,Twice a month,Yes
+Female,33,Italy,4,19,No,No,Yes,Yes,No,Yes,Quality of products,Once a week,No
+Male,46,Portugal,3,33,No,Yes,No,Yes,No,No,Quality of products,Twice a month,No
+Male,39,Luxembourg,2,35,No,No,No,No,Yes,Yes,Quality of products,Once a week,Yes
+Female,30,Belgium,2,76,No,No,Yes,No,Yes,Yes,The dietary information,Once a week,No
+Female,44,Switzerland,3,75,No,Yes,No,Yes,No,Yes,Price,Once a week,No
+Male,57,Austria,1,20,Yes,Yes,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,38,Spain,5,80,Yes,Yes,Yes,Yes,No,Yes,Price,Once a week,No
+Male,20,Italy,3,56,Yes,No,No,Yes,Yes,Yes,Price,Twice a month,Yes
+Female,59,Italy,2,33,Yes,Yes,Yes,Yes,No,Yes,Price,Once a week,Yes
+Male,22,Austria,2,46,No,Yes,No,Yes,Yes,Yes,The dietary information,Twice a month,Yes
+Male,40,Belgium,5,76,Yes,Yes,Yes,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,58,Spain,3,74,Yes,Yes,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,31,Austria,3,84,Yes,No,No,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,21,Italy,4,81,No,Yes,No,No,No,No,Price,Once a week,Yes
+Female,36,Switzerland,2,46,Yes,No,Yes,No,No,Yes,The dietary information,Once a week,No
+Female,38,Portugal,1,34,No,Yes,No,No,Yes,Yes,Quality of products,Once a week,No
+Male,21,Portugal,5,82,No,Yes,Yes,No,Yes,Yes,Quality of products,Once a week,No
+Male,37,Spain,5,47,Yes,Yes,Yes,No,No,Yes,Price,Once a week,Yes
+Male,37,Spain,3,13,No,No,No,No,Yes,No,The dietary information,Once a week,Yes
+Male,48,France,4,86,Yes,Yes,No,No,Yes,Yes,Price,Everyday,Yes
+Female,56,Spain,1,62,Yes,No,No,Yes,Yes,Yes,Price,Twice a month,Yes
+Male,57,Switzerland,5,76,No,No,No,Yes,No,Yes,The dietary information,Once a week,Yes
+Male,20,Italy,2,67,No,Yes,Yes,No,Yes,Yes,Price,Everyday,Yes
+Male,40,Austria,2,94,Yes,No,Yes,No,Yes,Yes,Quality of products,Once a week,Yes
+Male,55,France,2,20,Yes,No,Yes,Yes,Yes,Yes,Price,Once a week,Yes
+Male,22,Italy,4,85,Yes,No,Yes,No,No,No,Quality of products,Once a week,Yes
+Female,36,Portugal,3,31,Yes,No,Yes,No,Yes,No,The dietary information,Once a week,No
+Female,46,Spain,3,61,No,No,No,No,No,Yes,The dietary information,Everyday,Yes
+Female,21,Belgium,4,23,Yes,Yes,Yes,No,Yes,No,Price,Everyday,No
+Male,37,Italy,2,72,No,Yes,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Male,29,Austria,4,37,No,Yes,No,Yes,Yes,No,Quality of products,Twice a month,Yes
+Male,31,Switzerland,1,48,No,No,Yes,No,Yes,Yes,Price,Once a week,Yes
+Male,58,Italy,3,93,No,Yes,Yes,No,No,Yes,Price,Once a week,Yes
+Male,58,Belgium,3,83,No,Yes,Yes,Yes,Yes,Yes,The dietary information,Twice a month,No
+Male,22,Portugal,2,29,No,Yes,Yes,Yes,Yes,Yes,Quality of products,Everyday,No
+Female,20,France,2,62,No,No,No,No,Yes,Yes,Price,Once a week,No
+Female,42,France,2,15,No,Yes,No,Yes,No,Yes,The dietary information,Twice a month,Yes
+Male,36,Luxembourg,4,21,Yes,Yes,Yes,Yes,Yes,No,The dietary information,Everyday,No
+Male,45,Austria,1,58,Yes,Yes,Yes,No,No,Yes,The dietary information,Everyday,Yes
+Female,50,Spain,1,27,No,Yes,No,Yes,No,Yes,Price,Once a week,Yes
+Female,36,Austria,5,57,Yes,Yes,Yes,Yes,Yes,No,The dietary information,Twice a month,No
+Female,38,Austria,3,70,No,No,Yes,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,47,Belgium,1,24,Yes,No,Yes,No,Yes,Yes,Quality of products,Twice a month,Yes
+Male,45,Belgium,3,19,No,No,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,53,Portugal,3,49,No,No,No,No,No,Yes,Price,Once a week,Yes
+Female,42,Italy,1,15,Yes,Yes,No,No,No,Yes,Price,Everyday,No
+Female,23,Italy,1,62,Yes,No,No,Yes,Yes,No,Quality of products,Everyday,Yes
+Male,51,France,1,63,Yes,Yes,No,No,Yes,No,Price,Once a week,Yes
+Female,52,Portugal,5,97,Yes,Yes,No,No,Yes,Yes,The dietary information,Twice a month,Yes
+Female,57,Switzerland,3,90,Yes,No,No,No,Yes,Yes,Price,Once a week,No
+Male,40,France,4,97,No,No,No,No,No,No,The dietary information,Everyday,Yes
+Male,30,France,5,40,Yes,Yes,Yes,Yes,Yes,Yes,The dietary information,Everyday,Yes
+Female,58,Belgium,3,31,No,Yes,No,Yes,Yes,Yes,The dietary information,Twice a month,No
+Male,50,Spain,5,66,No,No,Yes,Yes,No,Yes,Quality of products,Once a week,Yes
+Male,32,Switzerland,1,18,Yes,No,Yes,Yes,No,No,Quality of products,Once a week,No
+Male,40,Luxembourg,1,41,Yes,Yes,Yes,Yes,No,Yes,Quality of products,Once a week,Yes
+Male,43,Austria,3,61,No,No,Yes,Yes,Yes,Yes,Price,Once a week,Yes
+Male,35,Italy,1,31,Yes,No,Yes,Yes,Yes,Yes,Quality of products,Everyday,No
+Female,22,Italy,1,78,No,Yes,No,No,Yes,Yes,Price,Once a week,Yes
+Female,23,Luxembourg,3,58,Yes,Yes,Yes,Yes,Yes,Yes,Price,Once a week,No
+Male,28,Switzerland,2,43,Yes,Yes,Yes,Yes,No,Yes,Price,Once a week,Yes
+Male,44,France,5,42,Yes,Yes,No,No,Yes,Yes,Price,Once a week,Yes
+Male,27,Portugal,2,43,Yes,Yes,Yes,No,Yes,Yes,The dietary information,Twice a month,Yes
+Female,41,Italy,5,88,Yes,Yes,No,Yes,Yes,No,Price,Twice a month,No
+Female,31,France,1,15,No,No,No,Yes,No,Yes,Quality of products,Once a week,No
+Female,46,Italy,4,41,Yes,Yes,No,Yes,No,Yes,Quality of products,Once a week,No
+Male,37,Switzerland,5,48,Yes,Yes,No,Yes,Yes,Yes,Quality of products,Everyday,No
+Male,44,Portugal,5,68,No,Yes,Yes,Yes,No,Yes,The dietary information,Once a week,Yes
+Female,31,Austria,2,32,No,No,Yes,Yes,Yes,Yes,Price,Twice a month,No
+Female,25,Switzerland,4,98,No,Yes,No,Yes,No,Yes,Quality of products,Twice a month,Yes
+Female,49,France,4,61,No,Yes,No,Yes,No,No,Quality of products,Everyday,Yes
+Female,28,Luxembourg,3,30,Yes,Yes,No,Yes,Yes,No,The dietary information,Once a week,Yes
+Male,28,Luxembourg,3,41,Yes,No,Yes,Yes,No,No,Price,Once a week,No
+Male,43,Belgium,4,84,Yes,Yes,No,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Female,47,Portugal,1,53,Yes,Yes,No,No,No,Yes,Price,Everyday,Yes
+Male,52,Italy,1,12,Yes,Yes,Yes,Yes,Yes,Yes,Price,Twice a month,Yes
+Female,58,Spain,2,44,No,No,Yes,Yes,No,No,The dietary information,Twice a month,Yes
+Male,46,Austria,5,92,Yes,Yes,Yes,Yes,Yes,Yes,Price,Once a week,No
+Female,56,Spain,4,67,Yes,No,No,No,Yes,Yes,The dietary information,Twice a month,Yes
+Female,60,France,1,96,No,Yes,Yes,Yes,Yes,No,Price,Everyday,Yes
+Female,58,Austria,5,16,No,Yes,Yes,No,Yes,No,Quality of products,Once a week,Yes
+Male,20,Switzerland,5,48,Yes,No,No,Yes,Yes,No,Quality of products,Twice a month,No
+Female,38,Italy,4,22,No,No,No,No,Yes,No,Quality of products,Everyday,Yes
+Male,40,Luxembourg,1,57,No,Yes,No,No,Yes,No,Quality of products,Once a week,Yes
+Female,27,Luxembourg,1,93,Yes,No,No,Yes,Yes,Yes,The dietary information,Everyday,No
+Male,30,Portugal,1,22,Yes,No,No,Yes,Yes,Yes,Price,Everyday,Yes
+Female,20,France,2,69,No,No,Yes,Yes,Yes,Yes,Quality of products,Everyday,No
+Male,45,Portugal,1,87,Yes,Yes,Yes,No,Yes,Yes,The dietary information,Everyday,Yes
+Male,56,Luxembourg,4,60,No,Yes,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Male,28,Portugal,2,86,Yes,Yes,No,No,No,Yes,Quality of products,Twice a month,Yes
+Male,59,Spain,1,53,No,No,No,No,Yes,Yes,Price,Everyday,Yes
+Female,26,France,2,69,Yes,No,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Female,48,Austria,4,48,Yes,No,No,Yes,Yes,No,Price,Once a week,Yes
+Female,29,France,4,50,Yes,No,Yes,Yes,No,Yes,Price,Once a week,Yes
+Male,36,Portugal,4,29,Yes,Yes,Yes,No,Yes,No,Price,Once a week,No
+Female,60,France,5,70,No,Yes,Yes,No,Yes,Yes,Quality of products,Twice a month,Yes
+Male,60,Spain,4,78,Yes,No,No,No,Yes,No,The dietary information,Everyday,Yes
+Male,40,Belgium,4,91,Yes,No,Yes,No,Yes,Yes,The dietary information,Once a week,No
+Female,52,Belgium,3,74,No,No,Yes,Yes,Yes,Yes,Price,Once a week,No
+Male,46,France,3,63,No,No,No,No,Yes,No,Quality of products,Everyday,Yes
+Male,43,Spain,2,17,Yes,Yes,Yes,No,No,Yes,Price,Once a week,Yes
+Male,33,Luxembourg,5,31,No,Yes,Yes,Yes,Yes,Yes,Price,Everyday,Yes
+Male,59,France,4,41,No,Yes,Yes,Yes,No,Yes,Price,Twice a month,No
+Female,35,Switzerland,3,24,Yes,Yes,Yes,Yes,No,Yes,Quality of products,Once a week,Yes
+Female,46,Spain,4,36,No,No,Yes,No,No,No,Price,Once a week,Yes
+Male,60,Switzerland,1,34,No,Yes,Yes,No,Yes,No,Price,Twice a month,Yes
+Male,40,Switzerland,5,19,No,Yes,No,No,Yes,No,Quality of products,Once a week,Yes
+Female,45,Luxembourg,2,80,Yes,Yes,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,36,Austria,5,94,Yes,No,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,22,France,4,49,No,No,No,No,Yes,Yes,The dietary information,Everyday,Yes
+Female,24,Italy,2,16,Yes,Yes,Yes,Yes,No,No,Quality of products,Once a week,Yes
+Male,41,Switzerland,1,64,No,Yes,Yes,Yes,Yes,Yes,Price,Once a week,No
+Male,42,Spain,4,53,No,No,No,Yes,Yes,Yes,Price,Everyday,Yes
+Male,56,Luxembourg,2,16,No,No,Yes,No,Yes,Yes,Price,Everyday,Yes
+Female,44,Austria,5,62,Yes,No,No,Yes,Yes,Yes,Price,Once a week,Yes
+Male,52,Austria,1,85,No,No,Yes,Yes,Yes,Yes,The dietary information,Once a week,No
+Male,22,Luxembourg,5,56,No,No,No,Yes,Yes,Yes,The dietary information,Twice a month,Yes
+Female,20,Austria,4,94,No,Yes,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Male,37,Italy,1,24,Yes,No,No,No,No,No,Quality of products,Everyday,Yes
+Female,27,Switzerland,4,90,No,No,No,Yes,Yes,Yes,The dietary information,Once a week,No
+Male,36,Luxembourg,3,96,Yes,No,No,Yes,Yes,Yes,Price,Once a week,Yes
+Female,52,France,3,33,Yes,Yes,No,No,No,Yes,Price,Everyday,No
+Female,54,Italy,5,38,No,No,Yes,No,Yes,Yes,Quality of products,Once a week,No
+Female,42,Portugal,4,15,No,Yes,Yes,No,No,Yes,The dietary information,Twice a month,No
+Male,32,Switzerland,5,70,No,Yes,No,Yes,Yes,No,Price,Once a week,Yes
+Female,26,France,5,75,No,Yes,Yes,No,Yes,Yes,Price,Once a week,Yes
+Male,33,Spain,2,82,No,No,No,No,No,No,Quality of products,Twice a month,Yes
+Female,58,Luxembourg,5,79,Yes,No,Yes,No,No,No,Price,Once a week,Yes
+Female,36,France,4,77,Yes,No,Yes,No,Yes,No,Quality of products,Once a week,Yes
+Female,20,Luxembourg,1,59,Yes,No,Yes,Yes,Yes,Yes,Quality of products,Twice a month,Yes
+Female,35,Spain,3,63,No,No,Yes,No,Yes,No,Price,Twice a month,Yes
+Male,22,France,2,100,No,Yes,No,No,Yes,No,Price,Once a week,Yes
+Female,24,Portugal,2,73,Yes,Yes,Yes,Yes,Yes,No,The dietary information,Twice a month,No
+Female,23,France,5,28,No,No,Yes,Yes,Yes,No,Quality of products,Once a week,No
+Female,28,Belgium,3,94,No,Yes,Yes,No,Yes,Yes,The dietary information,Twice a month,Yes
+Male,23,Switzerland,3,16,Yes,Yes,Yes,Yes,Yes,Yes,The dietary information,Twice a month,No
+Female,31,France,1,95,Yes,No,Yes,No,No,Yes,Price,Once a week,Yes
+Female,43,France,3,81,No,Yes,Yes,Yes,Yes,Yes,Price,Twice a month,Yes
+Female,31,Spain,2,35,No,No,Yes,No,Yes,Yes,Quality of products,Once a week,Yes
+Female,45,Austria,4,98,Yes,Yes,No,Yes,Yes,Yes,Quality of products,Everyday,Yes
+Male,49,France,4,86,Yes,No,Yes,Yes,Yes,Yes,Quality of products,Once a week,No
+Male,20,Portugal,4,43,Yes,No,Yes,No,Yes,No,Quality of products,Twice a month,Yes
+Female,21,Luxembourg,1,98,No,No,Yes,No,Yes,Yes,Price,Everyday,Yes
+Female,57,Spain,3,75,No,Yes,No,Yes,Yes,Yes,Quality of products,Twice a month,Yes
+Female,38,Luxembourg,2,48,No,No,Yes,Yes,No,Yes,Quality of products,Twice a month,No
+Male,57,Portugal,1,29,No,No,No,No,Yes,No,Quality of products,Everyday,Yes
+Male,32,Belgium,4,25,Yes,No,Yes,Yes,No,Yes,The dietary information,Twice a month,Yes
+Male,52,Italy,2,46,Yes,No,Yes,Yes,Yes,Yes,Price,Once a week,Yes
+Female,42,Austria,2,92,No,Yes,No,No,Yes,No,Quality of products,Once a week,Yes
+Female,34,Austria,4,84,Yes,No,No,No,No,Yes,The dietary information,Once a week,Yes
+Female,49,Spain,2,83,No,No,No,Yes,No,Yes,The dietary information,Everyday,Yes
+Female,35,Portugal,2,15,Yes,No,No,No,Yes,Yes,Quality of products,Twice a month,Yes
+Female,21,Luxembourg,1,81,Yes,Yes,Yes,Yes,Yes,No,Quality of products,Everyday,Yes
+Female,60,Italy,3,90,Yes,Yes,No,Yes,Yes,Yes,Quality of products,Everyday,Yes
+Female,21,France,1,74,No,Yes,No,No,Yes,Yes,Price,Once a week,Yes
+Female,48,Spain,5,35,Yes,Yes,Yes,No,Yes,Yes,Price,Once a week,Yes
+Female,59,Spain,5,78,No,Yes,No,Yes,Yes,Yes,The dietary information,Twice a month,Yes
+Male,35,Spain,2,83,Yes,Yes,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,38,France,5,53,No,No,Yes,Yes,Yes,Yes,Quality of products,Twice a month,Yes
+Female,50,Switzerland,4,37,No,No,No,Yes,Yes,No,Quality of products,Everyday,No
+Male,32,Belgium,5,75,Yes,No,Yes,Yes,No,Yes,Quality of products,Once a week,No
+Female,51,Switzerland,5,87,No,No,No,Yes,No,No,The dietary information,Twice a month,Yes
+Female,60,Luxembourg,4,96,No,No,No,No,Yes,Yes,The dietary information,Everyday,Yes
+Male,42,Austria,1,80,Yes,Yes,Yes,No,No,Yes,Quality of products,Once a week,Yes
+Male,60,France,4,71,Yes,No,No,No,Yes,No,The dietary information,Twice a month,No
+Female,36,Italy,1,32,Yes,Yes,No,No,Yes,No,Quality of products,Everyday,No
+Female,50,Luxembourg,1,85,Yes,Yes,Yes,No,Yes,Yes,The dietary information,Twice a month,No
+Female,28,France,4,77,Yes,No,No,No,Yes,Yes,Quality of products,Once a week,No
+Female,52,Belgium,3,76,Yes,No,Yes,No,No,Yes,The dietary information,Everyday,No
+Female,60,Luxembourg,3,38,No,No,Yes,Yes,No,No,Price,Once a week,Yes
+Female,40,Switzerland,5,92,No,Yes,No,Yes,Yes,No,Price,Once a week,Yes
+Male,32,Spain,5,78,No,No,Yes,Yes,Yes,Yes,Price,Twice a month,Yes
+Female,51,Luxembourg,3,44,Yes,No,Yes,Yes,No,Yes,The dietary information,Once a week,Yes
+Female,28,Austria,5,47,Yes,No,No,Yes,Yes,Yes,Quality of products,Once a week,No
+Male,56,Belgium,4,14,Yes,Yes,No,No,No,No,Quality of products,Twice a month,Yes
+Male,43,Italy,3,78,No,Yes,No,No,No,Yes,Price,Twice a month,Yes
+Male,29,France,1,15,No,No,No,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Female,57,Luxembourg,4,26,Yes,No,Yes,No,No,Yes,Quality of products,Everyday,No
+Female,44,France,3,42,No,No,Yes,No,Yes,No,The dietary information,Once a week,No
+Female,22,Spain,4,80,No,No,No,Yes,No,Yes,Price,Twice a month,Yes
+Male,32,Belgium,5,26,No,No,Yes,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,34,France,3,78,Yes,Yes,Yes,No,Yes,No,The dietary information,Twice a month,Yes
+Female,49,Spain,5,93,Yes,No,No,Yes,Yes,Yes,Price,Once a week,No
+Male,22,Spain,5,99,No,No,Yes,Yes,No,Yes,Quality of products,Once a week,Yes
+Female,46,Belgium,5,17,Yes,No,No,Yes,Yes,Yes,The dietary information,Once a week,No
+Female,49,France,5,79,Yes,Yes,Yes,Yes,Yes,Yes,Quality of products,Twice a month,Yes
+Male,36,Spain,3,56,No,Yes,No,Yes,Yes,Yes,Price,Once a week,Yes
+Female,39,Belgium,3,98,No,No,Yes,No,Yes,Yes,The dietary information,Twice a month,Yes
+Male,60,Austria,2,29,No,No,Yes,Yes,Yes,Yes,Quality of products,Twice a month,Yes
+Female,51,Austria,5,12,No,No,No,No,No,Yes,The dietary information,Everyday,No
+Male,33,Portugal,1,55,Yes,No,No,Yes,No,Yes,Price,Once a week,Yes
+Male,21,Luxembourg,3,95,Yes,Yes,No,Yes,Yes,Yes,Price,Once a week,Yes
+Female,40,Belgium,4,61,No,Yes,No,Yes,Yes,No,Price,Everyday,Yes
+Female,40,Belgium,4,89,No,Yes,Yes,Yes,Yes,No,Quality of products,Everyday,Yes
+Female,41,Luxembourg,5,53,Yes,No,Yes,No,Yes,Yes,Price,Once a week,Yes
+Male,30,Belgium,5,80,Yes,Yes,Yes,No,Yes,Yes,Price,Once a week,Yes
+Female,39,Switzerland,2,59,No,Yes,Yes,Yes,No,No,Quality of products,Everyday,Yes
+Male,26,France,4,49,No,Yes,Yes,Yes,Yes,No,Quality of products,Everyday,No
+Male,42,Austria,5,39,No,Yes,No,Yes,Yes,Yes,Price,Once a week,Yes
+Female,47,Austria,4,27,No,Yes,No,Yes,No,Yes,Price,Twice a month,Yes
+Female,38,Belgium,4,64,No,No,No,No,No,No,Quality of products,Everyday,Yes
+Male,35,Luxembourg,2,89,Yes,No,No,Yes,No,Yes,The dietary information,Once a week,No
+Female,40,Portugal,1,84,No,Yes,No,No,Yes,No,Price,Once a week,Yes
+Female,54,Portugal,5,40,Yes,Yes,No,No,Yes,Yes,The dietary information,Once a week,No
+Female,30,Belgium,4,74,No,No,No,No,No,Yes,The dietary information,Twice a month,Yes
+Female,27,Austria,3,20,Yes,Yes,No,Yes,Yes,Yes,Quality of products,Everyday,No
+Male,57,Belgium,2,89,Yes,No,No,Yes,Yes,Yes,Price,Everyday,No
+Female,34,Belgium,5,99,Yes,Yes,Yes,Yes,No,No,Price,Everyday,No
+Male,21,Luxembourg,4,11,No,Yes,Yes,No,No,Yes,Quality of products,Once a week,No
+Female,47,Belgium,2,12,No,Yes,Yes,No,No,Yes,The dietary information,Everyday,Yes
+Female,36,Switzerland,4,57,Yes,Yes,Yes,Yes,No,Yes,Price,Once a week,Yes
+Male,47,Portugal,3,15,No,No,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,40,France,3,18,No,No,No,No,Yes,Yes,Quality of products,Once a week,No
+Female,25,Belgium,1,61,No,Yes,Yes,No,Yes,No,Quality of products,Once a week,Yes
+Female,41,Italy,3,87,Yes,No,No,Yes,No,No,Quality of products,Once a week,No
+Female,59,Austria,2,95,No,Yes,No,No,No,Yes,The dietary information,Twice a month,No
+Female,40,Portugal,5,40,Yes,No,No,No,No,Yes,The dietary information,Once a week,No
+Male,48,France,1,14,Yes,No,Yes,Yes,No,No,Price,Twice a month,Yes
+Female,40,Spain,2,80,No,No,No,Yes,Yes,No,The dietary information,Once a week,Yes
+Female,29,Belgium,5,57,No,Yes,Yes,Yes,Yes,Yes,Quality of products,Everyday,No
+Female,39,Spain,3,62,No,No,No,No,No,Yes,Quality of products,Once a week,Yes
+Female,45,Belgium,4,98,Yes,No,Yes,Yes,Yes,No,Quality of products,Once a week,Yes
+Female,21,Austria,5,25,No,No,Yes,No,Yes,Yes,Quality of products,Once a week,Yes
+Male,30,Belgium,3,61,No,No,Yes,No,Yes,Yes,Quality of products,Once a week,No
+Female,46,Portugal,3,14,No,No,No,No,Yes,Yes,Quality of products,Once a week,Yes
+Male,29,France,5,50,No,No,Yes,No,No,Yes,The dietary information,Once a week,No
+Male,42,Portugal,2,92,Yes,No,Yes,No,Yes,Yes,Quality of products,Twice a month,No
+Female,38,Luxembourg,2,89,No,No,No,No,No,No,The dietary information,Once a week,Yes
+Female,40,Spain,4,43,No,No,Yes,Yes,Yes,Yes,Price,Twice a month,Yes
+Female,57,Belgium,1,10,No,No,Yes,No,No,No,Quality of products,Once a week,Yes
+Female,32,Italy,2,94,No,Yes,Yes,Yes,No,Yes,Quality of products,Once a week,No
+Male,48,Spain,4,26,No,Yes,No,No,No,No,Price,Once a week,Yes
+Female,51,France,5,33,No,No,No,No,Yes,No,Quality of products,Twice a month,No
+Male,58,Austria,3,45,No,No,No,No,No,No,The dietary information,Everyday,Yes
+Male,51,Switzerland,1,70,No,Yes,Yes,No,Yes,Yes,Price,Twice a month,No
+Female,57,Spain,4,13,Yes,No,No,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,23,Switzerland,1,60,Yes,No,Yes,Yes,Yes,Yes,The dietary information,Once a week,No
+Male,31,Portugal,5,37,No,No,No,No,No,Yes,Quality of products,Twice a month,No
+Female,22,Italy,4,37,No,No,Yes,No,No,Yes,Quality of products,Once a week,No
+Female,29,France,3,70,No,Yes,No,Yes,Yes,Yes,Price,Twice a month,No
+Male,38,Austria,3,71,No,No,No,Yes,No,Yes,Quality of products,Once a week,Yes
+Male,53,Belgium,3,61,Yes,No,No,No,Yes,No,Price,Twice a month,Yes
+Female,45,Luxembourg,5,69,No,Yes,No,No,Yes,Yes,Quality of products,Once a week,Yes
+Male,30,Belgium,3,62,Yes,No,Yes,Yes,Yes,No,Price,Everyday,Yes
+Male,36,Portugal,1,68,No,Yes,No,Yes,Yes,Yes,Quality of products,Twice a month,Yes
+Male,23,Austria,3,57,Yes,Yes,No,Yes,Yes,No,Quality of products,Everyday,No
+Male,29,Luxembourg,2,84,No,Yes,Yes,No,No,No,Price,Once a week,No
+Male,48,Italy,3,48,Yes,Yes,No,Yes,Yes,Yes,Quality of products,Once a week,No
+Female,21,Austria,4,15,No,Yes,Yes,No,Yes,Yes,The dietary information,Everyday,Yes
+Male,54,Italy,4,14,Yes,Yes,Yes,Yes,No,Yes,Price,Once a week,No
+Female,44,France,3,63,Yes,No,Yes,Yes,Yes,Yes,Quality of products,Twice a month,No
+Female,55,Portugal,5,71,Yes,No,Yes,No,Yes,Yes,Quality of products,Everyday,Yes
+Female,42,Austria,2,65,Yes,No,No,No,Yes,Yes,Quality of products,Twice a month,No
+Female,52,Spain,2,33,Yes,Yes,Yes,Yes,Yes,Yes,Price,Once a week,No
+Male,43,Spain,4,83,Yes,No,No,No,No,Yes,Quality of products,Twice a month,Yes
+Female,20,Switzerland,3,98,No,No,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Male,47,France,2,98,Yes,No,Yes,Yes,Yes,No,Quality of products,Once a week,Yes
+Male,38,Switzerland,4,51,No,Yes,No,Yes,No,No,Quality of products,Once a week,Yes
+Male,30,Spain,5,40,Yes,Yes,No,Yes,Yes,No,The dietary information,Once a week,No
+Male,42,France,2,86,Yes,Yes,No,Yes,No,No,Quality of products,Everyday,Yes
+Female,32,Belgium,5,84,No,No,Yes,No,Yes,Yes,Price,Once a week,Yes
+Female,49,France,1,85,No,Yes,No,Yes,Yes,Yes,The dietary information,Twice a month,Yes
+Female,38,Belgium,5,90,Yes,No,No,Yes,Yes,Yes,Quality of products,Everyday,Yes
+Male,52,Switzerland,2,70,Yes,Yes,Yes,No,Yes,No,The dietary information,Twice a month,No
+Female,51,Portugal,3,24,Yes,No,No,No,No,Yes,Price,Once a week,Yes
+Female,43,Switzerland,3,14,No,No,No,No,Yes,Yes,Quality of products,Once a week,Yes
+Female,51,Spain,2,93,No,Yes,No,No,Yes,Yes,Price,Once a week,Yes
+Male,44,Italy,3,29,No,No,No,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,29,Spain,5,81,Yes,Yes,Yes,No,No,Yes,The dietary information,Twice a month,Yes
+Male,60,Portugal,3,30,Yes,No,Yes,Yes,Yes,No,Quality of products,Everyday,Yes
+Male,38,Portugal,1,42,Yes,Yes,No,No,Yes,Yes,Price,Everyday,Yes
+Male,50,Luxembourg,1,82,No,No,No,No,Yes,No,The dietary information,Once a week,Yes
+Female,43,Belgium,4,10,No,Yes,No,Yes,Yes,Yes,The dietary information,Once a week,No
+Male,33,Austria,2,63,Yes,Yes,No,Yes,Yes,No,The dietary information,Once a week,Yes
+Male,23,Spain,1,30,No,Yes,Yes,No,No,No,Quality of products,Twice a month,No
+Female,48,Luxembourg,1,15,Yes,Yes,No,No,No,No,The dietary information,Twice a month,Yes
+Female,43,Switzerland,1,52,No,No,Yes,No,No,No,Price,Twice a month,Yes
+Female,60,Switzerland,3,68,No,Yes,No,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,20,Spain,1,61,Yes,No,No,No,Yes,Yes,Price,Once a week,Yes
+Male,31,Belgium,2,67,Yes,Yes,No,Yes,No,No,Price,Once a week,No
+Female,37,Belgium,3,17,No,Yes,Yes,Yes,No,Yes,The dietary information,Once a week,No
+Male,60,Italy,1,27,Yes,No,Yes,No,No,Yes,The dietary information,Once a week,Yes
+Male,24,Spain,1,99,Yes,Yes,Yes,Yes,Yes,No,Quality of products,Once a week,Yes
+Female,37,Spain,2,32,Yes,No,Yes,Yes,Yes,No,Quality of products,Everyday,Yes
+Female,50,Belgium,1,66,No,Yes,No,No,No,No,Quality of products,Once a week,Yes
+Female,56,Spain,1,88,No,No,No,No,Yes,Yes,Quality of products,Everyday,Yes
+Female,51,France,3,31,No,No,Yes,Yes,Yes,Yes,The dietary information,Everyday,No
+Female,22,Austria,5,78,Yes,Yes,No,Yes,Yes,Yes,Price,Once a week,No
+Male,45,Luxembourg,2,45,Yes,Yes,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,59,Luxembourg,4,76,No,Yes,Yes,Yes,Yes,No,Quality of products,Twice a month,Yes
+Male,36,France,3,84,No,No,No,No,Yes,Yes,Quality of products,Once a week,Yes
+Female,36,Belgium,2,92,No,No,No,No,Yes,Yes,The dietary information,Everyday,Yes
+Male,26,Italy,1,76,Yes,No,Yes,Yes,Yes,No,The dietary information,Twice a month,Yes
+Male,32,Italy,4,73,Yes,Yes,Yes,No,Yes,Yes,Price,Everyday,Yes
+Female,22,Switzerland,2,42,Yes,Yes,No,No,No,No,The dietary information,Once a week,Yes
+Male,22,France,3,55,No,Yes,No,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,35,Spain,5,68,No,No,No,No,Yes,Yes,The dietary information,Everyday,No
+Female,44,Portugal,3,95,Yes,No,No,Yes,Yes,No,Price,Everyday,No
+Female,55,Belgium,5,29,Yes,No,No,Yes,No,Yes,Quality of products,Everyday,Yes
+Male,48,Italy,3,23,Yes,Yes,No,Yes,No,Yes,Price,Once a week,Yes
+Female,49,Switzerland,5,64,Yes,No,No,No,Yes,Yes,The dietary information,Everyday,Yes
+Female,21,Switzerland,2,42,No,No,Yes,Yes,Yes,Yes,Price,Twice a month,Yes
+Female,28,Austria,2,41,No,No,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Female,28,France,1,56,No,No,Yes,Yes,Yes,Yes,Price,Once a week,No
+Female,40,Italy,3,59,No,Yes,Yes,No,No,Yes,The dietary information,Twice a month,No
+Male,44,Portugal,4,27,Yes,Yes,No,Yes,Yes,No,The dietary information,Once a week,Yes
+Male,55,France,2,97,No,No,No,No,Yes,Yes,Quality of products,Everyday,Yes
+Female,44,Spain,2,55,Yes,Yes,Yes,No,No,Yes,The dietary information,Once a week,No
+Male,32,Belgium,3,100,Yes,Yes,Yes,No,Yes,Yes,The dietary information,Everyday,Yes
+Male,28,France,2,92,Yes,Yes,Yes,No,Yes,Yes,The dietary information,Once a week,No
+Male,45,Italy,2,88,No,No,Yes,Yes,Yes,No,Quality of products,Twice a month,Yes
+Female,27,Belgium,1,77,No,No,No,No,No,Yes,The dietary information,Once a week,No
+Male,28,Portugal,5,81,Yes,No,Yes,No,No,Yes,The dietary information,Once a week,No
+Male,42,France,2,43,No,No,No,Yes,No,No,The dietary information,Once a week,Yes
+Male,46,Austria,2,36,No,Yes,No,Yes,No,Yes,Quality of products,Everyday,Yes
+Female,58,Italy,2,41,Yes,Yes,Yes,No,No,Yes,Quality of products,Everyday,No
+Female,51,France,4,95,Yes,No,Yes,No,Yes,Yes,Price,Once a week,Yes
+Female,52,Luxembourg,3,89,Yes,Yes,Yes,Yes,No,Yes,Price,Once a week,Yes
+Female,20,Luxembourg,3,94,No,No,No,No,Yes,Yes,Quality of products,Everyday,No
+Female,35,Switzerland,1,99,No,No,No,No,Yes,Yes,Quality of products,Once a week,No
+Male,23,France,5,47,Yes,Yes,Yes,Yes,Yes,Yes,The dietary information,Everyday,No
+Male,30,Spain,1,87,Yes,No,No,No,Yes,Yes,Quality of products,Once a week,No
+Male,51,Switzerland,4,67,No,No,No,Yes,Yes,No,Price,Once a week,No
+Male,54,Belgium,2,44,Yes,No,Yes,Yes,Yes,Yes,Price,Once a week,Yes
+Male,35,Italy,4,62,No,Yes,Yes,No,Yes,No,The dietary information,Everyday,Yes
+Male,40,Italy,3,92,No,Yes,Yes,Yes,Yes,Yes,The dietary information,Once a week,Yes
+Female,58,Luxembourg,4,19,Yes,Yes,Yes,No,Yes,Yes,Price,Once a week,Yes
+Female,59,Switzerland,5,11,Yes,No,No,No,Yes,Yes,Quality of products,Everyday,Yes
+Female,49,Luxembourg,3,92,No,Yes,No,Yes,No,Yes,The dietary information,Once a week,Yes
+Female,58,France,1,48,Yes,Yes,Yes,No,Yes,No,The dietary information,Once a week,Yes
+Male,55,France,2,20,No,No,No,No,No,Yes,The dietary information,Once a week,Yes
+Male,43,France,4,91,Yes,No,No,No,Yes,Yes,Quality of products,Once a week,Yes
+Female,34,Austria,2,50,No,No,No,Yes,No,No,The dietary information,Twice a month,Yes
+Female,56,Switzerland,5,59,Yes,Yes,No,Yes,Yes,No,Price,Once a week,Yes
+Female,52,Italy,5,30,No,No,Yes,No,Yes,No,Price,Everyday,Yes
+Female,32,Luxembourg,5,58,Yes,Yes,Yes,No,Yes,Yes,Price,Twice a month,Yes
+Male,22,Spain,5,34,Yes,Yes,Yes,No,Yes,No,Quality of products,Once a week,Yes
+Male,42,Luxembourg,3,73,Yes,Yes,No,Yes,Yes,Yes,The dietary information,Twice a month,Yes
+Female,60,Italy,5,90,Yes,No,No,No,No,Yes,Price,Once a week,Yes
+Male,38,Portugal,5,96,No,No,Yes,Yes,Yes,Yes,Quality of products,Once a week,No
+Male,24,Belgium,3,50,Yes,Yes,No,No,Yes,No,The dietary information,Once a week,Yes
+Female,56,Portugal,4,25,Yes,Yes,Yes,Yes,Yes,Yes,The dietary information,Twice a month,Yes
+Female,57,France,3,22,No,Yes,Yes,No,Yes,No,Quality of products,Twice a month,Yes
+Male,49,Luxembourg,5,68,No,No,Yes,Yes,No,Yes,Price,Once a week,No
+Female,45,Switzerland,2,11,No,No,Yes,Yes,Yes,Yes,The dietary information,Everyday,Yes
+Female,44,Belgium,2,69,Yes,Yes,No,Yes,Yes,Yes,Quality of products,Once a week,No
+Female,35,Portugal,3,59,Yes,Yes,No,No,Yes,No,Price,Everyday,No
+Male,26,Portugal,4,93,Yes,No,No,Yes,Yes,Yes,Quality of products,Once a week,No
+Female,48,Portugal,5,11,Yes,No,No,Yes,No,Yes,Quality of products,Once a week,No
+Female,35,Spain,5,83,Yes,No,No,Yes,Yes,Yes,The dietary information,Once a week,No
+Male,24,Austria,3,89,Yes,Yes,No,Yes,Yes,Yes,The dietary information,Everyday,No
+Female,44,France,4,22,No,Yes,Yes,Yes,Yes,No,Price,Once a week,No
+Male,34,Switzerland,4,92,Yes,Yes,Yes,No,No,Yes,Quality of products,Twice a month,Yes
+Male,58,Austria,1,46,Yes,Yes,No,No,No,Yes,Price,Once a week,No
+Female,21,Belgium,1,31,No,No,No,No,Yes,No,Price,Once a week,No
+Male,60,France,4,51,Yes,Yes,Yes,Yes,Yes,Yes,The dietary information,Everyday,Yes
+Male,42,Switzerland,3,17,Yes,Yes,No,No,Yes,No,Price,Once a week,Yes
+Female,53,Switzerland,3,62,Yes,No,Yes,No,No,Yes,The dietary information,Twice a month,Yes
+Female,42,Austria,5,63,Yes,No,No,No,Yes,Yes,The dietary information,Once a week,Yes
+Male,25,Italy,2,88,No,No,Yes,No,No,Yes,Price,Twice a month,Yes
+Male,48,Luxembourg,1,54,No,No,Yes,No,No,Yes,Quality of products,Once a week,Yes
+Female,22,Portugal,3,44,Yes,Yes,No,Yes,No,No,Quality of products,Once a week,Yes
+Male,34,Luxembourg,4,50,No,No,No,Yes,Yes,Yes,Price,Once a week,Yes
+Female,37,Austria,2,89,No,No,Yes,Yes,Yes,Yes,Quality of products,Once a week,No
+Male,40,Luxembourg,5,81,Yes,No,Yes,No,No,Yes,Quality of products,Once a week,Yes
+Male,25,Spain,5,50,Yes,Yes,Yes,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Male,37,Belgium,3,48,No,No,Yes,No,No,Yes,Quality of products,Everyday,Yes
+Male,34,France,1,74,No,No,Yes,No,Yes,Yes,The dietary information,Once a week,Yes
+Female,49,Italy,2,56,Yes,Yes,No,Yes,Yes,Yes,Price,Once a week,Yes
+Female,20,Italy,3,49,No,Yes,No,Yes,Yes,Yes,Quality of products,Twice a month,No
+Male,51,Italy,2,58,Yes,Yes,Yes,Yes,Yes,Yes,The dietary information,Once a week,No
+Male,37,Portugal,2,70,No,No,Yes,No,Yes,Yes,Quality of products,Once a week,Yes
+Female,58,Spain,1,75,No,Yes,No,Yes,Yes,Yes,Price,Everyday,Yes
+Female,21,Italy,4,46,No,Yes,Yes,No,No,Yes,Quality of products,Once a week,Yes
+Male,22,Luxembourg,2,87,No,No,No,Yes,Yes,Yes,Quality of products,Twice a month,Yes
+Female,46,Austria,5,32,Yes,Yes,Yes,Yes,No,Yes,The dietary information,Twice a month,Yes
+Male,22,Italy,1,67,No,No,No,No,No,Yes,Quality of products,Everyday,Yes
+Male,35,Spain,3,30,Yes,No,Yes,No,Yes,No,Price,Once a week,No
+Male,37,Spain,1,60,No,Yes,Yes,Yes,Yes,Yes,The dietary information,Twice a month,No
+Female,58,Belgium,1,14,Yes,No,Yes,No,No,Yes,Price,Twice a month,Yes
+Female,55,Belgium,4,38,No,Yes,Yes,Yes,Yes,Yes,Quality of products,Once a week,No
+Male,32,Spain,3,51,No,Yes,No,Yes,No,Yes,Price,Twice a month,Yes
+Male,59,Italy,5,45,No,Yes,No,Yes,No,Yes,Quality of products,Once a week,Yes
+Male,41,Luxembourg,4,15,No,Yes,Yes,Yes,Yes,No,Quality of products,Everyday,No
+Male,46,Belgium,5,68,Yes,No,Yes,Yes,No,No,Quality of products,Once a week,No
+Female,53,Austria,1,30,Yes,No,No,No,Yes,Yes,The dietary information,Twice a month,Yes
+Female,21,Belgium,3,17,Yes,Yes,No,Yes,Yes,No,Price,Once a week,No
+Female,52,Spain,4,14,No,Yes,No,No,Yes,Yes,Price,Once a week,No
+Male,22,France,1,100,Yes,No,Yes,Yes,No,Yes,Quality of products,Twice a month,No
+Male,20,France,4,28,No,No,Yes,No,No,Yes,Quality of products,Once a week,Yes
+Female,21,Italy,5,22,Yes,No,No,Yes,Yes,Yes,The dietary information,Everyday,Yes
+Female,37,France,1,21,No,No,Yes,No,Yes,No,Price,Once a week,Yes
+Male,45,Portugal,5,33,Yes,Yes,No,No,Yes,Yes,The dietary information,Once a week,Yes
+Female,36,Belgium,5,32,No,Yes,No,Yes,No,Yes,The dietary information,Twice a month,Yes
+Male,44,Portugal,5,98,Yes,Yes,No,No,Yes,Yes,Quality of products,Once a week,Yes
+Female,33,Luxembourg,3,26,Yes,Yes,Yes,Yes,Yes,Yes,Price,Everyday,Yes
+Male,34,Austria,4,78,No,Yes,No,Yes,Yes,Yes,Quality of products,Once a week,Yes
+Female,43,Italy,1,15,Yes,Yes,Yes,Yes,No,No,Price,Everyday,Yes
+Female,39,Austria,4,16,No,No,No,Yes,Yes,Yes,The dietary information,Twice a month,Yes
+Female,49,Luxembourg,1,94,Yes,Yes,Yes,No,Yes,Yes,Quality of products,Once a week,Yes
+Female,32,Portugal,5,95,Yes,No,Yes,Yes,No,Yes,Price,Twice a month,Yes
+Male,56,Luxembourg,2,29,Yes,No,No,Yes,Yes,Yes,The dietary information,Once a week,No
+Male,34,France,4,55,No,No,No,No,Yes,Yes,The dietary information,Everyday,No
